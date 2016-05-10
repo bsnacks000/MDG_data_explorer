@@ -27,6 +27,7 @@ make_sparklines = function(dataset, series, title){
             geom_line(size=0.85) +
             theme(legend.position="none") +
             ggtitle(title)
+        
     )
 }
 
