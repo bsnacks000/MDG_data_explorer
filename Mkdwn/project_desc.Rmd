@@ -1,0 +1,74 @@
+---
+title: "Millenial Development Goals Database Explorer"
+author: "John DeBlase"
+date: "May 10, 2016"
+output: html_document
+---
+
+### **Overview**
+
+In 2000, world leaders in the UN agreed upon a set of seven development goals for humanity in order to undermine poverty, hunger and disease in underdeveloped nations. These goals also included improving social conditions such as equal opportunities for women and better education for children. Targets and indicators for each of the seven goals were selected by statisticians to measure progress toward the broader millenial development goals from 1990 - 2015.  
+
+The Millenial Development Goals Database Explorer is an application designed to explore relationships and spot trends among several distinct MDG indicators from the categories of disease(Tuberculosis rates), air quality (CO2 emmisions/Ozone depleting substances) and poverty(slum population/under-nourishment percentages).  
+
+For this project, an emphasis will be placed on exploring trends in tuberculosis rates and amongst a selection of developed and under-developed regions. 
+
+
+#### **MDG Indicator Information**
+
+The metadata information for each indicator below is provided by the MDG Indicator Database website: <a href="http://mdgs.un.org/unsd/mdg/Metadata.aspx"> http://mdgs.un.org/unsd/mdg/Metadata.aspx </a> 
+
+- **Tuberculosis death rate**. Refers to the estimated number of deaths due to tuberculosis (TB) in a given time period. In this database, the indicator reflects the number of deaths per 100,000 population per year. Deaths from all forms of TB are included.
+
+- **Tuberculosis incidence rate**. The estimated number of new tuberculosis (TB) cases arising in one year per 100,000 population.
+
+- **Carbon dioxide emissions (CO2), thousand metric tons of CO2 (CDIAC)**. Amount of CO2 emmissions as monitored globally by the Carbon Dioxide Information Analysis Center.
+
+- **Consumption of all Ozone-Depleting Substances in ODP metric tons**. This indicator is used to monitor the reduction in the usage of Ozone Depleting Substances (ODSs) measured using Ozone Depletion Potential, the amount of ozone depletion caused by a substance.
+
+- **Consumption of ozone-depleting CFCs in ODP metric tons**. Similar to above but specifically measures the ODP in terms of chlorofluorocarbons, a specific category of ODS.
+
+- **Population undernourished, percentage**. The undernourished or food deprived are those individuals whose food intake falls below the minimum level of dietary energy requirements.
+
+- **Slum population as percentage of urban, percentage**. The Proportion of urban population living in slums is the proportion of urban population living in slum households. 
+
+
+### **Data Acquisition and cleaning**
+
+The original master csv was downloaded directly from the UN data mart site: <a href="http://data.un.org/DataMartInfo.aspx#MDG"> http://data.un.org/DataMartInfo.aspx#MDG</a>
+
+My original plan was to upload this very large complete dataset into a MySQL database and from there query and transform the series data before loading the project dataset into R. This however proved to be infeasible due to major descrepencies in the formatting of the csv. Columns were misaligned throughout the dataset and metadata was mixed in with series data. For these reasons I decided that I needed do a preliminary cleaning of the dataset using a spreadsheet editor in order to realign columns and eliminate any extraneous metadata. From the spreadsheet editor I split and exported the data into 7 wide format csv files, one for each series indicator used in the project.
+
+These csvs were then imported directly into R with the clean_data.R script and transformed using tidyr and dplyr. First, several extra blank columns were dropped from dataframes. Next, I used a function to transform the data from wide to long format and drop some extraenous columns. For tuberculosis data, only the midpoint observations were used, so the high and low observations were dropped from those dataframes. Finally, a union was peformed using rbind() in order to create a single long format clean master csv file that would serve as the backbone of the application.  
+
+On application startup, the clean master csv is loaded and any rows containing missing observations were dropped using complete.cases() in order to improve the efficiency of the googleViz and ggplot libraries. A second dataset of country averages for each indicator is also created on startup for use with the Correlation Explorer component of the application.  
+
+Link to data cleaning script and raw csv folder:
+<github link>
+ 
+
+### **Application Design**
+
+The application itself is divided into three sections: GeoChart, Data Explorer, and Correlation Explorer.
+
+- **GeoChart** - an interactive map that is divided up into both world and regional views. The user can chart the progress of each indicator throughout the years spanning the study. 
+
+- **Data Explorer** - this offers two distinct views, the first plots sparklines that show the overall trends of the data for each country 
+
+- **Correlation Explorer**
+
+
+### **Analysis**
+
+Exploration of project goals... Using Data Explorer and GeoChart to spot trends among certain countries and regions   
+  
+Correlation explorer... Gaining insight into relationships between disease/ pollution/ poverty targets  
+
+### **Conclusion**
+
+Results of exploratory analysis... ways to make the app better
+
+
+
+
+

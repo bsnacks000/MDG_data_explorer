@@ -1,8 +1,13 @@
 ## MDG Database -- Final Project ui
 
 require(shiny)
+require(dplyr)
+require(ggplot2)
+require(plotly)
+require(googleVis)
 
-## load series title data and datasets to build ui inputs
+
+## load series title data and datasets into app on ui side
 source("./Util/series_title_data.R")
 source("./Util/build_dataset.R")
 
@@ -10,12 +15,12 @@ source("./Util/build_dataset.R")
 shinyUI(
     
     navbarPage(
-        title = "MDG Database",
+        title = "Millenial Database Goals Data Explorer",
         
         tabPanel(
             title = "About",
             
-            HTML("<p>... Insert project info text in HTML ...</p>")
+            includeMarkdown("./Mkdwn/project_desc.Rmd")
             
         ),
         ## <---- GEOCHART TAB ---->
@@ -26,13 +31,16 @@ shinyUI(
                 
                 sidebarPanel(
                     
-                    selectInput("series_geo",label="MDG Target",choices= list(
+                    selectInput("series_geo",label="Choose MDG Indicator",choices= list(
                         series_all$tuberc_death,series_all$tuberc_inci,
                         series_all$co2,series_all$ozone_all,series_all$ozone_cfc,
                         series_all$slum,series_all$pop_und_nour
                         )
                     ),
-                    sliderInput("year_geo", label="Year",value=2000, min=1990, max=2013)
+                    sliderInput("year_geo", label="Year",value=2000, min=1990, max=2013),
+                    HTML("<br><p><strong>NOTE</strong>: Slum population data is only available in select 
+                        regions for 1990, 1995, 2000, 2005, 2007, 2009. </p><br><strong>NOTE</strong>: CO2 emissions data is only available up to 2011
+                        worldwide.</p>")
                     
                 ),
                 
@@ -124,37 +132,36 @@ shinyUI(
                 tabPanel(
                     title = "Filter Chart",
                     sidebarPanel(
-                        selectInput("series_filt",label = "MDG Target",choices=levels(data$Series)),
+                        selectInput("series_filt",label = "Choose MDG Indicator",choices=levels(data$Series)),
                         selectInput("country1", label= "Country 1",choices=levels(data$Country)),
-                        selectInput("country2", label= "Country 2",choices=levels(data$Country)),
-                        selectInput("country3", label= "Country 3",choices=levels(data$Country)),
-                        selectInput("country4", label= "Country 4",choices=levels(data$Country)),
-                        selectInput("country5", label= "Country 5",choices=levels(data$Country))
+                        selectInput("country2", label= "Country 2",choices=c("<<Select Country>>",levels(data$Country))),
+                        selectInput("country3", label= "Country 3",choices=c("<<Select Country>>",levels(data$Country))),
+                        selectInput("country4", label= "Country 4",choices=c("<<Select Country>>",levels(data$Country))),
+                        selectInput("country5", label= "Country 5",choices=c("<<Select Country>>",levels(data$Country)))
                         
                     ),
                     mainPanel(
-                        plotlyOutput("filter_chart")    
+                        tags$h4(textOutput("series_post2")),
+                        plotOutput("filter_chart"),
+                        HTML("<h4> Results </h4>"),
+                        dataTableOutput("data_table")
                     )
                     
                 )
             )
         ),
         
+        
+        ## <--- CORRELATION EXPLORER --->
         tabPanel(
-            title = "Correlation (means)",
+            title = "Correlation Explorer (means)",
             
             sidebarLayout(
                 
                 sidebarPanel(
-                    selectInput("x_axis", label="x axis",width = "100%", choices=list(
-                        series_all$tuberc_death, series_all$tuberc_inci
-                        )
-                    ),
-                    
-                    selectInput("y_axis", label="y axis",width = "100%", choices=list(
-                        series_all$co2,series_all$ozone_all,series_all$ozone_cfc,series_all$slum,series_all$pop_und_nour
-                        )
-                    )  
+                    selectInput("x_axis", label="x axis",width = "100%", choices=levels(data$Series)),
+                    selectInput("y_axis", label="y axis",width = "100%", choices=levels(data$Series))
+          
                 ),
                 
                 

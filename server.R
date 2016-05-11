@@ -6,13 +6,8 @@ require(dplyr)
 require(ggplot2)
 require(plotly)
 require(googleVis)
+require(tidyr)
 
-
-# data prep -- load master csv / drop NAs / build avg_dataset
-#source("./Util/build_dataset.R")
-
-# series title list -- exact and shortened
-#source("./Util/series_title_data.R")
 
 # load util functions
 source("./Util/util_functions.R")
@@ -97,47 +92,54 @@ shinyServer(function(input, output){
     })
     
     ## outputs_DATA_EX::
-    output$filter_chart = renderPlotly({
-        
-        
-        p = ggplot(selected_data_filt(), aes(year, n, group=Country, color=Country)) + 
-            geom_line(size=0.85) +
-            theme(legend.position="none")
-        
-        plot_out = ggplotly(p)
-        plot_out
-        
+    output$series_post2 = renderText(
+        paste("Series: ", input$series_filt)
+    )
+    
+    output$data_table = renderDataTable({
+        selected_data_filt() %>% select(-Series) %>% spread(year,n)
     })
     
+
+    output$filter_chart = renderPlot({
+        
+        ggplot(selected_data_filt(), aes(year, n, group=Country, color=Country)) + 
+            geom_line(size=0.85) #+
+            #theme(legend.position="none")
+        
+    })
+
     
     output$tuberc_death = renderPlot({
-        make_sparklines(selected_data_spark(), series_all$tuberc_death, series_title$tuberc_death)
+        make_sparklines(selected_data_spark(), series_all$tuberc_death, series_title$tuberc_death, "red")
     })
     
     output$tuberc_inci = renderPlot({
-        make_sparklines(selected_data_spark(), series_all$tuberc_inci,series_title$tuberc_inci)
+        make_sparklines(selected_data_spark(), series_all$tuberc_inci,series_title$tuberc_inci, "red")
     })
     
     output$co2 = renderPlot({
-        make_sparklines(selected_data_spark(), series_all$co2, series_title$co2)
+        make_sparklines(selected_data_spark(), series_all$co2, series_title$co2, "green")
     })
     
     output$ozone_all = renderPlot({
-        make_sparklines(selected_data_spark(), series_all$ozone_all, series_title$ozone_all)
+        make_sparklines(selected_data_spark(), series_all$ozone_all, series_title$ozone_all, "green")
     })
     
     output$ozone_cfc = renderPlot({
-        make_sparklines(selected_data_spark(), series_all$ozone_cfc, series_title$ozone_cfc)
+        make_sparklines(selected_data_spark(), series_all$ozone_cfc, series_title$ozone_cfc, "green")
     })
     
     output$slum = renderPlot({
-        make_sparklines(selected_data_spark(), series_all$slum, series_title$slum)
+        make_sparklines(selected_data_spark(), series_all$slum, series_title$slum, "blue")
     })
     
     output$pop_und_nour = renderPlot({
-        make_sparklines(selected_data_spark(), series_all$pop_und_nour, series_title$pop_und_nour)
+        make_sparklines(selected_data_spark(), series_all$pop_und_nour, series_title$pop_und_nour, "blue")
     })
     
+    
+    ## --------------------------------------------------------------##
     ## inputs_CORR::
     
     selected_data_corr = reactive({
@@ -151,22 +153,27 @@ shinyServer(function(input, output){
     ## outputs_CORR::
     
     output$scatter_plot = renderPlotly({
-        x_label = as.character(selected_data_corr()$Series.x[1])  # not sure why this is cutting off
+        x_label = as.character(selected_data_corr()$Series.x[1])  
         y_label = as.character(selected_data_corr()$Series.y[1])
+        
+        
+        
         
         p = ggplot(selected_data_corr(), aes(x,y)) +
             geom_point(aes(colour = Country)) + 
             geom_smooth(method = "lm") + 
             theme(legend.position="none") +
             xlab(x_label) + 
-            ylab(y_label)
-        
+            ylab(y_label) + 
+            theme(axis.title.x = element_text(size = rel(0.75))) + 
+            theme(axis.title.y = element_text(size = rel(0.75))) +
+            theme(axis.text.x = element_text(size = rel(0.75))) +
+            theme(axis.text.y = element_text(size = rel(0.75)))
+            
         
         plot_out = ggplotly(p)
         plot_out
         
     })
-    
-    
-    
+
 })

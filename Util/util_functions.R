@@ -16,7 +16,7 @@ make_geo_chart = function (dataset, region_code){
     )
 }
 
-make_sparklines = function(dataset, series, title){
+make_sparklines = function(dataset, series, title, color){
     
     # makes the sparklines plots for data explorer
        
@@ -24,8 +24,12 @@ make_sparklines = function(dataset, series, title){
     
     return(
         ggplot(dataset, aes(year, n)) + 
-            geom_line(size=0.85) +
-            theme(legend.position="none") +
+            geom_line(size=0.85, color = color) +
+            theme(legend.position="none", 
+                  axis.text.x=element_blank(),     # remove extraneous info for sparkline format
+                  axis.text.y=element_blank(),
+                  axis.title.y=element_blank()
+                  ) +
             ggtitle(title)
         
     )
