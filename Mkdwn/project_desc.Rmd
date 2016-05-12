@@ -46,7 +46,7 @@ These csvs were then imported directly into R with the clean_data.R script and t
 On application startup, the clean master csv is loaded and any rows containing missing observations were dropped using complete.cases() in order to improve the efficiency of the googleViz and ggplot libraries. A second dataset of country averages for each indicator is also created on startup for use with the Correlation Explorer component of the application.  
 
 Link to data cleaning script and raw csv folder:
-<github link>
+<a href="https://github.com/bsnacks000/MDG_data_explorer/tree/master/Cleaning"> github link </a>
  
 
 #### **Application Design**
