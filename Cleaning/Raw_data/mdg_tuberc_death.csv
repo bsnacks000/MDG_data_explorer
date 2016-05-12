@@ -1,0 +1,703 @@
+CountryCode,Country,SeriesCode,MDG,Series,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013
+4,Afghanistan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",37.0,46.0,54.0,60.0,65.0,69.0,71.0,72.0,72.0,71.0,68.0,64.0,59.0,54.0,50.0,46.0,44.0,42.0,41.0,41.0,41.0,41.0,42.0,42.0
+4,Afghanistan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",24.0,29.0,34.0,38.0,41.0,45.0,48.0,51.0,51.0,50.0,48.0,45.0,42.0,38.0,35.0,32.0,30.0,29.0,28.0,28.0,28.0,28.0,28.0,27.0
+4,Afghanistan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",54.0,61.0,68.0,73.0,79.0,82.0,85.0,85.0,85.0,84.0,83.0,78.0,72.0,66.0,60.0,56.0,53.0,52.0,52.0,52.0,52.0,53.0,53.0,53.0
+8,Albania,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.8,1.7,1.1,1.5,1.8,0.7,1.5,0.8,0.9,0.8,0.8,0.7,0.7,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+8,Albania,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.4,1.3,0.8,1.1,1.3,0.6,1.2,0.7,0.7,0.6,0.6,0.5,0.5,0.4,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+8,Albania,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.3,2.1,1.5,1.9,2.3,0.8,1.8,1.1,1.2,1.0,1.1,0.9,0.9,0.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+12,Algeria,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",11.0,10.0,10.0,10.0,11.0,11.0,12.0,12.0,13.0,13.0,13.0,14.0,14.0,14.0,14.0,14.0,14.0,14.0,14.0,14.0,14.0,14.0,13.0,13.0
+12,Algeria,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.9,6.3,6.5,6.6,6.6,7.1,8.0,8.2,8.1,8.2,8.4,8.3,8.4,8.2,7.9,8.0,8.6,8.9,8.9,8.7,8.2,8.1,6.8,5.6
+12,Algeria,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",15.0,15.0,14.0,14.0,16.0,16.0,16.0,16.0,17.0,18.0,18.0,18.0,18.0,18.0,18.0,19.0,19.0,20.0,20.0,20.0,20.0,21.0,20.0,21.0
+16,American Samoa,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.1,0.3,0.3,1.6,1.9,2.8,3.5,4.2,0.9,1.8,0.7,0.6,0.2,0.3,2.1,2.8,0.9,0.3,0.3,0.7,0.7,0.8,0.6,0.6
+16,American Samoa,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.7,0.1,0.1,0.8,1.1,1.7,2.2,2.7,0.4,1.0,0.2,0.2,0.0,0.1,1.2,1.7,0.3,0.1,0.1,0.2,0.2,0.3,0.2,0.2
+16,American Samoa,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.1,0.7,0.6,2.8,3.1,4.2,5.2,6.0,1.7,2.9,1.4,1.2,0.4,0.9,3.3,4.4,1.8,0.6,0.6,1.5,1.5,1.6,1.4,1.4
+20,Andorra,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.9,5.1,2.9,1.0,6.5,4.3,2.8,5.4,0.6,0.9,2.9,1.9,0.4,2.5,0.4,2.0,3.4,0.3,0.3,1.7,1.3,0.2,2.7,0.3
+20,Andorra,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.4,2.5,1.0,0.2,3.8,2.3,1.2,3.3,0.1,0.3,1.7,1.0,0.1,1.5,0.1,1.2,2.2,0.1,0.1,1.0,0.7,0.0,1.7,0.1
+20,Andorra,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.5,8.7,5.9,2.5,9.9,7.1,5.1,8.1,1.5,1.8,4.5,3.2,0.9,3.9,0.9,3.1,4.9,0.7,0.6,2.7,2.1,0.6,3.8,0.7
+24,Angola,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",47.0,52.0,57.0,60.0,62.0,63.0,62.0,59.0,55.0,50.0,45.0,39.0,33.0,28.0,24.0,22.0,22.0,24.0,26.0,28.0,30.0,32.0,32.0,32.0
+24,Angola,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",32.0,36.0,39.0,41.0,43.0,44.0,43.0,41.0,38.0,35.0,30.0,25.0,21.0,17.0,14.0,13.0,13.0,14.0,16.0,18.0,19.0,19.0,18.0,16.0
+24,Angola,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",62.0,67.0,71.0,73.0,75.0,75.0,75.0,73.0,70.0,64.0,58.0,51.0,44.0,38.0,33.0,32.0,32.0,35.0,39.0,42.0,45.0,46.0,46.0,46.0
+660,Anguilla,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+660,Anguilla,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+660,Anguilla,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Antigua and Barbuda,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.9,0.0,1.8,0.0,1.8,0.0,0.6,1.1,1.7,1.5,1.8,1.5,1.6,1.5,1.4,1.4,1.4,1.5,1.5,1.5,1.4,1.4,1.4,1.4
+28,Antigua and Barbuda,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.5,0.0,1.7,0.0,1.6,0.0,0.5,1.0,1.5,1.4,1.5,1.4,1.4,1.4,1.3,1.3,1.3,1.3,1.3,1.3,1.2,1.2,1.2,1.2
+28,Antigua and Barbuda,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.3,0.0,1.9,0.0,2.0,0.0,0.6,1.3,1.9,1.6,2.2,1.7,1.8,1.7,1.5,1.4,1.6,1.7,1.7,1.7,1.5,1.5,1.5,1.5
+32,Argentina,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.2,3.8,3.5,3.6,3.2,3.3,3.0,3.1,2.8,2.6,2.3,2.2,2.3,2.1,1.9,1.9,1.8,1.8,1.6,1.6,1.4,1.6,1.5,1.4
+32,Argentina,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.2,3.7,3.5,3.6,3.1,3.3,3.0,3.0,2.7,2.5,2.2,2.1,2.2,2.0,1.8,1.8,1.8,1.7,1.5,1.5,1.3,1.5,1.4,1.3
+32,Argentina,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.3,3.8,3.6,3.7,3.2,3.4,3.1,3.2,2.8,2.7,2.4,2.3,2.4,2.2,2.0,2.0,1.9,1.9,1.7,1.7,1.4,1.7,1.5,1.4
+51,Armenia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.4,4.4,4.9,5.0,5.1,6.0,5.6,6.6,6.1,6.6,6.3,6.0,8.6,8.0,8.2,8.5,8.7,8.7,8.6,7.3,7.1,5.3,5.7,5.7
+51,Armenia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.2,3.3,3.9,4.0,4.1,4.9,4.7,5.7,5.3,5.8,5.6,5.2,6.4,5.9,6.2,6.5,6.7,6.7,6.7,5.7,5.9,4.4,4.8,4.8
+51,Armenia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.8,5.5,6.0,6.2,6.3,7.2,6.5,7.7,6.9,7.5,7.0,6.8,11.0,10.0,11.0,11.0,11.0,11.0,11.0,9.1,8.3,6.2,6.7,6.7
+533,Aruba,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.1,1.3,1.5,1.5,1.5,1.4,0.4,0.4,7.9,0.5
+533,Aruba,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.4,0.4,0.5,0.7,0.7,0.7,0.6,0.1,0.1,5.3,0.1
+533,Aruba,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.3,2.3,2.3,2.4,2.4,2.4,2.3,2.3,2.4,2.3,2.3,2.3,2.3,2.2,2.3,2.4,2.6,2.6,2.6,2.5,0.9,1.0,11.0,1.1
+36,Australia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.4,0.4,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+36,Australia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.4,0.4,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+36,Australia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.4,0.4,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+40,Austria,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.9,1.8,1.7,1.5,1.3,1.0,1.0,1.0,1.1,1.0,0.9,0.7,0.8,0.6,0.5,0.6,0.6,0.5,0.5,0.5,0.4,0.5,0.3,0.3
+40,Austria,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.8,1.8,1.7,1.5,1.3,0.9,1.0,1.0,1.1,1.0,0.9,0.7,0.8,0.6,0.5,0.6,0.6,0.5,0.5,0.5,0.4,0.5,0.3,0.3
+40,Austria,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.9,1.8,1.7,1.5,1.4,1.0,1.0,1.0,1.2,1.0,0.9,0.7,0.8,0.6,0.5,0.6,0.6,0.5,0.5,0.5,0.4,0.5,0.3,0.4
+31,Azerbaijan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",11.0,11.0,14.0,15.0,17.0,23.0,23.0,22.0,21.0,24.0,22.0,20.0,18.0,17.0,14.0,9.3,6.0,3.9,3.9,3.9,3.9,3.9,3.9,3.9
+31,Azerbaijan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",8.5,8.2,11.0,12.0,13.0,17.0,17.0,17.0,16.0,18.0,17.0,16.0,14.0,13.0,11.0,7.8,5.3,3.5,3.5,3.5,3.5,3.5,3.5,3.5
+31,Azerbaijan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",15.0,14.0,18.0,19.0,22.0,29.0,30.0,28.0,26.0,30.0,27.0,25.0,23.0,22.0,18.0,11.0,6.7,4.2,4.2,4.2,4.2,4.2,4.2,4.2
+44,Bahamas,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.7,6.0,5.4,5.5,4.1,4.4,3.2,1.4,3.9,3.1,2.2,1.4,1.4,1.1,2.1,1.2,0.7,1.0,1.3,0.6,0.6,0.6,0.5,0.5
+44,Bahamas,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.7,5.9,5.3,5.3,4.0,4.3,3.0,1.4,3.8,2.9,2.1,1.3,1.3,1.0,2.0,1.2,0.6,0.9,1.2,0.6,0.6,0.5,0.5,0.4
+44,Bahamas,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.8,6.1,5.4,5.6,4.1,4.4,3.4,1.5,3.9,3.3,2.3,1.4,1.4,1.1,2.2,1.2,0.7,1.1,1.4,0.6,0.6,0.7,0.6,0.6
+48,Bahrain,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.5,4.9,4.4,3.9,3.4,3.1,2.7,1.1,2.1,2.3,2.5,1.8,1.5,0.3,1.1,1.1,0.5,0.9,0.7,0.7,0.7,0.7,0.7,0.7
+48,Bahrain,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.4,4.8,4.2,3.7,3.3,2.9,2.6,0.9,1.8,1.8,2.2,1.5,1.4,0.3,1.0,1.0,0.5,0.8,0.6,0.6,0.6,0.6,0.6,0.6
+48,Bahrain,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.7,5.1,4.5,4.0,3.6,3.2,2.9,1.2,2.5,2.8,3.0,2.1,1.7,0.3,1.2,1.2,0.6,1.0,0.7,0.8,0.8,0.8,0.8,0.8
+50,Bangladesh,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",80.0,80.0,79.0,79.0,78.0,78.0,78.0,77.0,76.0,75.0,74.0,72.0,70.0,68.0,65.0,63.0,61.0,59.0,57.0,55.0,54.0,53.0,52.0,51.0
+50,Bangladesh,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",53.0,55.0,56.0,55.0,55.0,56.0,57.0,57.0,56.0,55.0,53.0,52.0,50.0,48.0,46.0,44.0,42.0,41.0,40.0,39.0,37.0,36.0,34.0,33.0
+50,Bangladesh,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",106.0,102.0,97.0,93.0,90.0,91.0,89.0,90.0,92.0,91.0,88.0,86.0,84.0,81.0,78.0,76.0,74.0,73.0,73.0,72.0,71.0,69.0,68.0,69.0
+52,Barbados,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.4,0.8,0.8,2.4,0.8,0.8,0.8,0.8,0.8,0.8,0.5,0.4,0.4,0.8,0.8,0.8,1.1,0.4,0.4,0.4,0.4,0.7,0.7
+52,Barbados,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.4,0.8,0.8,2.3,0.8,0.8,0.8,0.8,0.8,0.8,0.4,0.4,0.4,0.8,0.7,0.7,1.1,0.4,0.4,0.4,0.4,0.7,0.7
+52,Barbados,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.4,0.8,0.8,2.4,0.8,0.8,0.8,0.8,0.8,0.8,0.6,0.4,0.4,0.8,0.8,0.8,1.1,0.4,0.4,0.4,0.4,0.7,0.7
+112,Belarus,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.9,5.0,4.8,5.7,5.9,7.5,7.0,7.6,7.9,9.9,8.1,9.1,11.0,12.0,11.0,11.0,11.0,11.0,9.9,9.0,9.1,9.1,9.1,9.1
+112,Belarus,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.6,4.6,4.5,5.3,5.4,6.9,6.6,7.0,7.4,9.3,7.6,8.7,10.0,11.0,11.0,10.0,10.0,9.8,9.3,8.5,8.5,8.5,8.5,8.5
+112,Belarus,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.2,5.4,5.2,6.2,6.4,8.1,7.5,8.3,8.4,11.0,8.5,9.6,11.0,12.0,12.0,12.0,12.0,11.0,11.0,9.6,9.8,9.8,9.8,9.8
+56,Belgium,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.0,0.8,1.1,1.1,1.2,1.0,1.1,0.8,0.8,0.9,0.8,0.7,0.6,0.5,0.4,0.6,0.4,0.5,0.5,0.3,0.3,0.3,0.2,0.2
+56,Belgium,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.0,0.8,1.0,1.1,1.1,1.0,1.1,0.8,0.8,0.9,0.8,0.7,0.6,0.5,0.4,0.6,0.4,0.5,0.5,0.3,0.2,0.3,0.2,0.2
+56,Belgium,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.0,0.8,1.1,1.2,1.2,1.0,1.1,0.8,0.9,0.9,0.8,0.7,0.6,0.5,0.4,0.6,0.4,0.5,0.5,0.4,0.3,0.3,0.2,0.2
+84,Belize,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.5,9.6,5.0,2.6,6.4,3.5,8.0,7.0,19.0,8.6,3.9,8.8,6.9,5.9,2.8,2.2,5.9,2.9,5.2,4.4,4.3,5.9,5.9,5.9
+84,Belize,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.9,7.8,4.2,2.2,5.1,3.1,6.5,6.7,18.0,7.9,3.8,8.4,6.8,5.9,2.7,2.2,5.8,2.8,5.1,4.3,4.2,5.9,5.9,5.9
+84,Belize,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",3.1,12.0,5.8,2.9,7.8,3.8,9.7,7.4,19.0,9.3,3.9,9.1,7.0,6.0,2.8,2.2,5.9,2.9,5.2,4.4,4.3,6.0,6.0,6.0
+204,Benin,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",37.0,34.0,32.0,29.0,27.0,25.0,24.0,22.0,21.0,20.0,19.0,17.0,16.0,15.0,13.0,13.0,12.0,11.0,11.0,11.0,11.0,11.0,12.0,12.0
+204,Benin,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",25.0,23.0,22.0,21.0,19.0,18.0,17.0,17.0,15.0,14.0,13.0,12.0,11.0,10.0,9.2,8.4,8.0,7.8,7.7,7.6,7.6,7.6,7.5,7.3
+204,Benin,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",46.0,42.0,38.0,35.0,32.0,30.0,28.0,26.0,26.0,24.0,23.0,21.0,19.0,18.0,16.0,16.0,15.0,15.0,15.0,15.0,15.0,16.0,16.0,17.0
+60,Bermuda,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.0,1.7,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,Bermuda,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,1.7,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,Bermuda,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.0,1.7,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,Bhutan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",277.0,257.0,235.0,212.0,188.0,164.0,142.0,125.0,110.0,99.0,90.0,83.0,78.0,73.0,68.0,62.0,55.0,48.0,40.0,32.0,26.0,20.0,15.0,12.0
+64,Bhutan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",191.0,178.0,164.0,148.0,132.0,115.0,99.0,85.0,74.0,66.0,59.0,55.0,51.0,48.0,45.0,41.0,37.0,32.0,27.0,21.0,16.0,12.0,9.2,6.9
+64,Bhutan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",326.0,306.0,283.0,257.0,228.0,199.0,174.0,153.0,136.0,122.0,112.0,104.0,98.0,92.0,85.0,79.0,71.0,62.0,53.0,43.0,35.0,30.0,26.0,23.0
+68,Bolivia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.9,7.6,7.4,7.1,6.8,6.6,6.3,6.1,5.8,5.7,5.5,5.4,5.2,5.1,4.9,4.8,4.7,4.6,4.5,4.4,4.3,4.2,4.1,4.0
+68,Bolivia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.1,2.2,2.2,2.4,2.6,3.0,2.7,2.6,2.5,2.4,2.3,2.3,2.2,2.1,2.1,2.0,2.0,1.9,1.9,1.9,1.8,1.8,1.8,1.7
+68,Bolivia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",18.0,16.0,16.0,14.0,13.0,12.0,12.0,11.0,11.0,10.0,10.0,9.9,9.6,9.2,8.9,8.7,8.6,8.4,8.2,8.0,7.8,7.6,7.4,7.3
+70,Bosnia and Herzegovina,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.6,7.0,6.9,6.7,6.6,6.5,6.4,6.3,6.2,6.1,6.0,5.9,5.8,5.7,5.6,5.5,5.4,5.4,5.3,5.2,5.1,5.0,4.9,4.9
+70,Bosnia and Herzegovina,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.3,6.6,6.5,6.4,6.3,6.2,6.0,5.9,5.8,5.7,5.6,5.5,5.4,5.3,5.2,5.1,5.0,4.9,4.8,4.7,4.6,4.5,4.4,4.4
+70,Bosnia and Herzegovina,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.9,7.3,7.2,7.1,7.0,6.9,6.8,6.7,6.6,6.5,6.4,6.3,6.2,6.2,6.1,6.0,5.9,5.8,5.8,5.7,5.6,5.5,5.4,5.4
+72,Botswana,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",127.0,130.0,131.0,128.0,120.0,108.0,94.0,82.0,72.0,64.0,57.0,51.0,44.0,40.0,36.0,34.0,32.0,30.0,27.0,27.0,26.0,24.0,23.0,22.0
+72,Botswana,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",65.0,77.0,88.0,87.0,79.0,70.0,61.0,52.0,50.0,44.0,38.0,33.0,29.0,27.0,24.0,21.0,19.0,18.0,17.0,17.0,16.0,15.0,15.0,14.0
+72,Botswana,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",219.0,203.0,183.0,165.0,158.0,142.0,118.0,97.0,87.0,79.0,71.0,63.0,56.0,50.0,47.0,45.0,42.0,38.0,35.0,35.0,34.0,32.0,32.0,31.0
+76,Brazil,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.4,5.4,5.2,5.4,5.5,5.3,5.0,5.0,5.0,4.9,4.4,4.2,3.9,3.7,3.5,3.1,3.0,2.9,3.0,2.9,2.8,2.5,2.3,2.2
+76,Brazil,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.1,4.1,4.0,4.2,4.3,4.2,4.0,4.0,4.1,3.9,3.6,3.5,3.2,3.1,3.0,2.8,2.8,2.7,2.7,2.7,2.6,2.4,2.3,1.3
+76,Brazil,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.0,6.9,6.6,6.8,6.8,6.6,6.1,6.1,6.1,5.9,5.3,5.0,4.6,4.3,4.1,3.5,3.3,3.2,3.2,3.1,3.0,2.6,2.4,3.4
+92,British Virgin Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.0,0.0,0.0,0.0,5.5,5.4,5.3,5.3,5.0,5.3,4.8,4.9,4.7,4.6,4.6,4.5,4.2,3.9,4.1,4.1,4.1,4.1,4.1
+92,British Virgin Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,0.0,0.0,0.0,5.5,5.3,5.2,5.2,5.0,5.1,4.8,4.7,4.6,4.5,4.4,4.3,4.1,3.9,3.9,4.0,4.0,4.0,4.0
+92,British Virgin Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.0,0.0,0.0,0.0,5.5,5.4,5.4,5.3,5.0,5.5,4.9,5.0,4.8,4.7,4.7,4.7,4.3,3.9,4.4,4.3,4.3,4.3,4.3
+96,Brunei Darussalam,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.0,3.0,3.0,3.0,3.0,3.0,2.4,4.9,1.3,2.4,4.9,4.1,3.1,2.7,3.5,3.4,2.8,2.5,2.5,3.3,3.5,1.1,3.0,3.0
+96,Brunei Darussalam,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.9,2.9,2.9,2.9,2.9,2.9,2.2,4.7,1.3,2.3,4.7,4.0,3.0,2.6,3.4,3.3,2.7,2.4,2.2,3.0,3.2,1.0,2.9,2.9
+96,Brunei Darussalam,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",3.2,3.2,3.2,3.2,3.2,3.2,2.6,5.1,1.3,2.5,5.0,4.3,3.1,2.7,3.6,3.5,2.8,2.6,2.7,3.6,3.8,1.2,3.1,3.1
+100,Bulgaria,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.5,2.7,3.3,3.6,4.0,4.2,4.3,4.9,4.8,3.8,4.2,3.8,3.8,3.7,3.6,3.6,3.5,3.6,3.1,2.6,2.8,2.4,2.3,2.1
+100,Bulgaria,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.4,2.6,3.2,3.4,3.9,4.1,4.2,4.8,4.6,3.7,4.1,3.7,3.7,3.6,3.5,3.6,3.4,3.6,3.1,2.6,2.7,2.3,2.3,2.0
+100,Bulgaria,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.5,2.8,3.4,3.7,4.1,4.2,4.4,5.1,4.9,3.9,4.3,3.9,3.8,3.8,3.7,3.7,3.5,3.7,3.2,2.7,2.8,2.4,2.4,2.1
+854,Burkina Faso,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",26.0,24.0,23.0,22.0,21.0,21.0,20.0,19.0,18.0,18.0,17.0,16.0,16.0,15.0,15.0,14.0,14.0,13.0,12.0,12.0,11.0,10.0,9.5,8.9
+854,Burkina Faso,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",18.0,17.0,16.0,16.0,15.0,15.0,14.0,14.0,13.0,13.0,12.0,12.0,11.0,11.0,11.0,10.0,9.6,8.9,8.5,8.0,7.4,6.9,6.3,5.7
+854,Burkina Faso,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",32.0,30.0,27.0,26.0,24.0,23.0,23.0,22.0,22.0,21.0,20.0,20.0,19.0,19.0,18.0,17.0,17.0,16.0,15.0,15.0,14.0,13.0,13.0,12.0
+108,Burundi,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",37.0,51.0,67.0,82.0,94.0,101.0,102.0,98.0,91.0,82.0,73.0,64.0,57.0,50.0,44.0,40.0,36.0,32.0,30.0,28.0,26.0,25.0,24.0,22.0
+108,Burundi,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",27.0,37.0,48.0,59.0,67.0,71.0,72.0,70.0,65.0,59.0,53.0,46.0,41.0,36.0,31.0,28.0,25.0,22.0,20.0,19.0,18.0,17.0,16.0,15.0
+108,Burundi,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",50.0,65.0,80.0,94.0,107.0,113.0,115.0,113.0,107.0,100.0,89.0,79.0,70.0,61.0,54.0,48.0,43.0,40.0,37.0,35.0,33.0,32.0,30.0,29.0
+116,Cambodia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",207.0,202.0,197.0,193.0,188.0,185.0,182.0,180.0,177.0,172.0,166.0,157.0,146.0,135.0,123.0,112.0,102.0,94.0,86.0,79.0,74.0,70.0,68.0,66.0
+116,Cambodia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",140.0,140.0,138.0,136.0,134.0,134.0,135.0,135.0,132.0,127.0,121.0,114.0,105.0,95.0,85.0,77.0,69.0,63.0,58.0,54.0,50.0,47.0,44.0,42.0
+116,Cambodia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",266.0,251.0,237.0,225.0,222.0,220.0,214.0,211.0,215.0,208.0,201.0,190.0,177.0,164.0,149.0,135.0,126.0,118.0,112.0,106.0,101.0,96.0,92.0,92.0
+120,Cameroon,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",22.0,28.0,36.0,43.0,51.0,58.0,64.0,68.0,71.0,72.0,72.0,69.0,65.0,61.0,57.0,54.0,50.0,47.0,44.0,42.0,39.0,37.0,36.0,35.0
+120,Cameroon,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",15.0,20.0,26.0,32.0,37.0,42.0,45.0,48.0,50.0,51.0,50.0,48.0,45.0,42.0,39.0,36.0,34.0,31.0,30.0,28.0,26.0,25.0,23.0,22.0
+120,Cameroon,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",28.0,36.0,42.0,51.0,59.0,65.0,72.0,79.0,83.0,84.0,82.0,79.0,74.0,69.0,65.0,62.0,59.0,56.0,54.0,52.0,50.0,47.0,46.0,45.0
+124,Canada,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.4,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.3,0.4,0.3,0.3,0.2,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2
+124,Canada,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.4,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.3,0.4,0.3,0.3,0.2,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2
+124,Canada,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.4,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.3,0.4,0.3,0.3,0.2,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2
+132,Cape Verde,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",49.0,48.0,48.0,48.0,48.0,48.0,47.0,47.0,46.0,45.0,45.0,44.0,43.0,42.0,41.0,39.0,38.0,37.0,35.0,34.0,32.0,31.0,30.0,30.0
+132,Cape Verde,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",30.0,32.0,32.0,32.0,33.0,33.0,33.0,34.0,33.0,32.0,32.0,31.0,30.0,30.0,29.0,28.0,27.0,25.0,24.0,23.0,22.0,21.0,20.0,19.0
+132,Cape Verde,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",66.0,64.0,63.0,61.0,58.0,57.0,57.0,57.0,56.0,55.0,54.0,53.0,52.0,50.0,49.0,47.0,46.0,45.0,44.0,43.0,42.0,40.0,39.0,39.0
+136,Cayman Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+136,Cayman Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+136,Cayman Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,Central African Republic,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",269.0,272.0,277.0,278.0,275.0,267.0,254.0,238.0,222.0,207.0,191.0,176.0,160.0,144.0,130.0,116.0,105.0,94.0,85.0,75.0,65.0,58.0,52.0,49.0
+140,Central African Republic,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",193.0,197.0,200.0,202.0,199.0,192.0,182.0,172.0,161.0,152.0,142.0,130.0,118.0,106.0,94.0,83.0,74.0,67.0,60.0,52.0,45.0,40.0,36.0,33.0
+140,Central African Republic,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",351.0,349.0,352.0,351.0,347.0,340.0,330.0,317.0,303.0,286.0,268.0,249.0,229.0,210.0,192.0,174.0,156.0,137.0,119.0,104.0,91.0,82.0,77.0,74.0
+148,Chad,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",20.0,23.0,26.0,29.0,31.0,33.0,35.0,36.0,36.0,36.0,36.0,35.0,34.0,33.0,32.0,31.0,30.0,29.0,28.0,27.0,25.0,24.0,23.0,22.0
+148,Chad,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",14.0,16.0,18.0,20.0,22.0,23.0,24.0,25.0,25.0,25.0,24.0,24.0,23.0,22.0,21.0,20.0,19.0,18.0,18.0,17.0,16.0,15.0,14.0,13.0
+148,Chad,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",26.0,29.0,31.0,34.0,37.0,39.0,41.0,42.0,43.0,44.0,43.0,42.0,40.0,39.0,38.0,37.0,35.0,34.0,33.0,33.0,32.0,31.0,30.0,29.0
+830,Channel Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+830,Channel Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+830,Channel Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+152,Chile,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.8,4.0,4.1,3.8,3.2,3.5,3.4,2.9,2.6,2.5,1.9,2.2,2.1,1.9,1.8,1.5,1.7,1.5,1.3,1.4,1.6,1.4,1.3,1.2
+152,Chile,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.3,3.7,3.8,3.6,3.0,3.2,3.2,2.7,2.5,2.4,1.8,2.1,2.0,1.9,1.7,1.4,1.7,1.5,1.3,1.4,1.5,1.4,1.3,1.2
+152,Chile,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.2,4.2,4.4,4.0,3.4,3.7,3.6,3.1,2.7,2.6,2.0,2.3,2.2,2.0,1.8,1.5,1.7,1.6,1.4,1.5,1.6,1.4,1.3,1.3
+156,China,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",19.0,18.0,17.0,15.0,14.0,13.0,12.0,12.0,11.0,9.6,8.7,7.9,7.3,6.7,6.1,5.7,5.2,4.8,4.5,4.1,3.8,3.5,3.2,3.0
+156,China,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",17.0,15.0,14.0,13.0,12.0,11.0,10.0,9.0,8.0,7.0,6.6,6.3,6.1,6.0,6.0,5.5,5.1,4.7,4.3,4.0,3.7,3.4,3.1,2.9
+156,China,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",21.0,20.0,19.0,18.0,17.0,16.0,15.0,14.0,13.0,13.0,11.0,9.7,8.5,7.4,6.3,5.8,5.4,5.0,4.6,4.2,3.9,3.6,3.3,3.1
+344,"China, Hong Kong Special Administrative Region",647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.3,6.7,6.3,6.1,6.1,6.2,4.6,3.9,4.1,4.4,4.0,3.7,3.3,3.3,3.7,3.5,3.9,3.2,3.2,2.9,2.6,2.6,2.6,2.6
+344,"China, Hong Kong Special Administrative Region",793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.2,6.6,6.3,6.1,6.1,6.1,4.6,3.9,4.1,4.4,4.0,3.7,3.3,3.3,3.7,3.5,3.8,3.2,3.2,2.9,2.6,2.6,2.6,2.6
+344,"China, Hong Kong Special Administrative Region",794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.4,6.8,6.4,6.2,6.2,6.2,4.6,4.0,4.1,4.4,4.0,3.7,3.4,3.4,3.7,3.6,3.9,3.3,3.2,2.9,2.7,2.7,2.7,2.7
+446,"China, Macao Special Administrative Region",647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",10.0,8.5,7.4,6.5,5.9,5.4,5.2,5.1,5.0,4.8,4.6,4.4,4.1,3.9,3.6,3.3,3.1,3.0,2.9,2.8,2.8,2.8,2.8,2.8
+446,"China, Macao Special Administrative Region",793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.1,3.8,2.8,2.1,1.7,1.3,1.1,1.1,1.0,0.9,0.7,0.6,0.5,0.4,0.3,0.2,0.1,0.1,0.1,0.2,0.1,0.1,0.1,0.1
+446,"China, Macao Special Administrative Region",794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",17.0,15.0,14.0,13.0,13.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,11.0,11.0,11.0,11.0,11.0,11.0,8.9,11.0,11.0,11.0,11.0
+170,Colombia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.0,4.7,4.7,5.0,4.4,4.0,4.1,3.4,3.8,3.9,3.2,3.3,3.3,3.2,3.1,2.4,2.3,2.5,2.4,2.3,2.0,1.9,1.7,1.6
+170,Colombia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.2,4.1,3.9,4.2,3.7,3.6,3.6,3.1,3.5,3.7,3.0,3.2,3.2,3.0,2.9,2.4,2.3,2.5,2.4,2.3,1.9,1.8,1.7,1.6
+170,Colombia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.9,5.4,5.5,5.9,5.1,4.5,4.6,3.8,4.1,4.1,3.4,3.5,3.4,3.3,3.3,2.4,2.4,2.6,2.5,2.3,2.0,1.9,1.8,1.6
+174,Comoros,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",11.0,11.0,10.0,9.5,8.9,8.4,7.9,7.3,6.9,7.0,7.3,7.6,7.9,8.3,8.4,8.6,8.3,7.9,7.8,7.4,7.4,7.8,7.8,7.8
+174,Comoros,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.8,6.3,5.8,5.5,5.1,4.8,4.5,4.0,3.8,3.9,4.2,4.5,4.8,5.1,5.2,5.3,5.1,4.9,4.8,4.5,4.5,4.8,4.8,4.8
+174,Comoros,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",17.0,16.0,15.0,15.0,14.0,13.0,13.0,12.0,11.0,11.0,12.0,12.0,12.0,12.0,13.0,13.0,12.0,12.0,12.0,11.0,11.0,12.0,12.0,12.0
+178,Congo,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",44.0,41.0,38.0,35.0,33.0,31.0,30.0,29.0,28.0,29.0,30.0,33.0,35.0,39.0,41.0,44.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0,44.0
+178,Congo,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",27.0,25.0,25.0,22.0,21.0,19.0,18.0,18.0,17.0,17.0,18.0,20.0,21.0,23.0,25.0,26.0,28.0,28.0,28.0,29.0,29.0,29.0,27.0,25.0
+178,Congo,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",56.0,51.0,47.0,46.0,44.0,43.0,43.0,42.0,43.0,44.0,46.0,48.0,51.0,54.0,56.0,59.0,61.0,61.0,62.0,63.0,64.0,64.0,64.0,63.0
+184,Cook Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.3,0.4,11.0,7.6,4.8,0.4,0.4,1.1,0.3,5.3,0.3,3.0,0.4,0.2,0.4,0.3,0.3,1.5,2.7,2.6,0.2,0.2,0.2,2.0
+184,Cook Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.1,0.1,7.4,5.2,3.1,0.1,0.1,0.5,0.1,3.6,0.1,2.0,0.1,0.0,0.1,0.1,0.1,1.0,1.8,1.7,0.0,0.0,0.0,1.2
+184,Cook Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.8,1.0,15.0,11.0,6.9,1.1,1.0,2.1,0.6,7.3,0.6,4.2,0.8,0.4,0.7,0.7,0.7,2.2,3.7,3.6,0.4,0.5,0.5,2.9
+188,Costa Rica,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.5,3.1,3.2,2.5,2.5,2.3,2.5,2.3,2.4,2.4,1.8,2.0,1.8,1.7,1.6,1.4,1.2,0.8,1.2,1.0,1.0,1.2,0.9,0.7
+188,Costa Rica,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.3,2.8,3.0,2.4,2.4,2.2,2.4,2.3,2.3,2.3,1.7,1.9,1.7,1.6,1.6,1.3,1.2,0.8,1.1,0.9,0.9,1.1,0.9,0.6
+188,Costa Rica,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.7,3.3,3.4,2.7,2.6,2.3,2.6,2.4,2.5,2.5,1.8,2.0,1.9,1.7,1.6,1.4,1.3,0.9,1.3,1.0,1.0,1.3,1.0,0.7
+384,Cote d'Ivoire,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",67.0,72.0,77.0,83.0,87.0,89.0,89.0,87.0,83.0,79.0,74.0,69.0,63.0,56.0,50.0,45.0,40.0,36.0,32.0,28.0,25.0,23.0,21.0,20.0
+384,Cote d'Ivoire,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",48.0,51.0,55.0,59.0,62.0,64.0,64.0,62.0,60.0,57.0,53.0,49.0,45.0,40.0,36.0,31.0,28.0,24.0,22.0,19.0,17.0,15.0,14.0,12.0
+384,Cote d'Ivoire,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",87.0,89.0,92.0,96.0,99.0,100.0,101.0,100.0,98.0,95.0,89.0,82.0,75.0,68.0,61.0,54.0,49.0,44.0,41.0,37.0,35.0,32.0,29.0,28.0
+191,Croatia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",9.1,7.0,6.1,6.2,5.5,5.4,5.7,4.7,4.5,5.0,4.2,3.4,4.2,3.7,3.6,2.5,3.3,2.3,2.4,2.8,1.9,1.5,1.4,1.2
+191,Croatia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",8.8,6.8,6.0,6.0,5.2,5.0,5.2,4.4,4.3,4.9,4.0,3.3,4.1,3.6,3.5,2.5,3.2,2.3,2.3,2.8,1.9,1.5,1.4,1.2
+191,Croatia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.3,7.2,6.3,6.4,5.9,5.7,6.1,4.9,4.7,5.2,4.4,3.5,4.2,3.7,3.6,2.5,3.3,2.3,2.4,2.8,1.9,1.5,1.4,1.2
+192,Cuba,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.6,0.5,0.6,0.8,1.0,0.9,0.9,0.8,0.4,0.5,0.4,0.3,0.3,0.4,0.3,0.3,0.3,0.2,0.3,0.2,0.4,0.3,0.3,0.3
+192,Cuba,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.6,0.5,0.6,0.8,1.0,0.9,0.9,0.8,0.4,0.5,0.4,0.3,0.3,0.4,0.3,0.3,0.3,0.2,0.3,0.2,0.4,0.3,0.3,0.3
+192,Cuba,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.6,0.5,0.7,0.8,1.0,0.9,0.9,0.8,0.4,0.5,0.4,0.3,0.3,0.4,0.4,0.3,0.3,0.2,0.3,0.2,0.4,0.3,0.3,0.3
+196,Cyprus,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.5,0.0,0.1,0.2,0.3,0.4,0.4,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2
+196,Cyprus,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.0,0.1,0.2,0.3,0.3,0.3,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2
+196,Cyprus,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.9,0.0,0.1,0.2,0.3,0.4,0.4,0.1,0.1,0.1,0.1,0.1,0.2,0.3,0.3
+203,Czech Republic,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.9,1.7,1.7,1.3,1.3,0.9,1.0,0.9,1.2,1.2,1.2,0.9,0.8,0.8,0.7,0.7,0.6,0.7,0.5,0.5,0.4,0.5,0.3,0.3
+203,Czech Republic,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.8,1.7,1.6,1.3,1.3,0.9,1.0,0.9,1.2,1.2,1.2,0.9,0.8,0.8,0.7,0.7,0.6,0.7,0.5,0.5,0.4,0.5,0.3,0.3
+203,Czech Republic,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.9,1.7,1.7,1.3,1.3,0.9,1.0,1.0,1.3,1.2,1.2,0.9,0.8,0.8,0.7,0.7,0.6,0.7,0.5,0.5,0.4,0.5,0.3,0.3
+200,Czechoslovakia [former],647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+200,Czechoslovakia [former],793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+200,Czechoslovakia [former],794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+180,Democratic Republic of the Congo,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",102.0,99.0,97.0,95.0,93.0,91.0,89.0,87.0,84.0,82.0,79.0,75.0,72.0,69.0,67.0,65.0,64.0,63.0,63.0,63.0,64.0,65.0,67.0,68.0
+180,Democratic Republic of the Congo,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",56.0,54.0,52.0,52.0,50.0,49.0,48.0,48.0,46.0,44.0,42.0,40.0,38.0,36.0,34.0,33.0,32.0,32.0,32.0,32.0,33.0,33.0,33.0,33.0
+180,Democratic Republic of the Congo,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",122.0,114.0,108.0,107.0,107.0,104.0,102.0,99.0,96.0,92.0,90.0,87.0,85.0,83.0,80.0,78.0,76.0,75.0,74.0,73.0,73.0,72.0,74.0,78.0
+208,Denmark,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.1,0.8,1.2,1.0,0.6,0.5,0.9,0.6,0.5,0.4,0.4,0.5,0.6,0.3,0.6,0.4,0.3,0.5,0.3,0.5,0.7,0.3,0.4,0.4
+208,Denmark,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.0,0.8,1.1,0.9,0.6,0.5,0.8,0.5,0.5,0.4,0.4,0.4,0.6,0.3,0.6,0.4,0.3,0.5,0.3,0.5,0.6,0.3,0.4,0.4
+208,Denmark,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.1,0.8,1.2,1.0,0.7,0.5,0.9,0.6,0.5,0.4,0.4,0.5,0.6,0.3,0.6,0.4,0.3,0.5,0.3,0.6,0.7,0.3,0.4,0.4
+262,Djibouti,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",108.0,91.0,77.0,65.0,56.0,50.0,46.0,44.0,44.0,47.0,52.0,59.0,67.0,75.0,81.0,85.0,86.0,85.0,83.0,82.0,83.0,86.0,92.0,100.0
+262,Djibouti,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",66.0,55.0,46.0,37.0,30.0,26.0,24.0,23.0,24.0,27.0,31.0,35.0,42.0,48.0,52.0,55.0,57.0,56.0,55.0,55.0,55.0,56.0,59.0,61.0
+262,Djibouti,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",155.0,129.0,108.0,91.0,80.0,73.0,66.0,64.0,66.0,71.0,77.0,84.0,92.0,99.0,103.0,109.0,110.0,112.0,113.0,115.0,117.0,120.0,126.0,136.0
+212,Dominica,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",9.2,3.2,7.8,7.9,1.7,3.2,1.6,4.7,3.1,7.7,3.4,1.6,1.6,3.1,1.5,1.4,1.4,4.3,4.4,4.3,4.3,4.3,3.7,3.7
+212,Dominica,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",8.8,3.0,7.4,7.4,1.5,3.0,1.5,4.5,3.0,7.4,3.1,1.5,1.5,3.0,1.5,1.4,1.4,4.3,4.3,4.3,4.3,4.2,3.7,3.7
+212,Dominica,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.6,3.4,8.2,8.4,1.9,3.4,1.7,5.0,3.3,7.9,3.7,1.6,1.7,3.3,1.5,1.4,1.4,4.4,4.4,4.4,4.3,4.3,3.8,3.8
+214,Dominican Republic,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",14.0,13.0,13.0,12.0,11.0,13.0,11.0,10.0,11.0,8.7,8.7,8.0,8.6,9.2,9.0,6.4,3.6,3.0,2.7,2.5,5.7,5.7,5.7,5.7
+214,Dominican Republic,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",7.6,6.5,6.2,5.5,5.0,6.4,5.9,5.7,6.4,5.4,4.6,4.5,5.0,5.4,5.3,4.1,3.5,2.9,2.7,2.4,3.6,3.6,3.6,3.6
+214,Dominican Republic,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",22.0,22.0,22.0,20.0,18.0,21.0,18.0,16.0,17.0,13.0,14.0,12.0,13.0,14.0,14.0,9.2,3.7,3.1,2.8,2.5,8.2,8.2,8.2,8.2
+218,Ecuador,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",19.0,20.0,18.0,18.0,15.0,17.0,13.0,14.0,17.0,15.0,14.0,12.0,11.0,9.5,8.9,7.7,7.2,6.4,6.0,5.0,4.7,3.5,3.0,2.0
+218,Ecuador,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",14.0,14.0,13.0,13.0,10.0,12.0,9.1,10.0,13.0,11.0,10.0,8.8,8.0,7.0,6.6,6.6,6.2,5.5,5.1,4.3,4.1,3.3,2.9,1.2
+218,Ecuador,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",26.0,27.0,24.0,24.0,20.0,24.0,18.0,19.0,23.0,19.0,19.0,16.0,14.0,12.0,12.0,9.0,8.3,7.4,6.9,5.8,5.4,3.7,3.2,3.1
+818,Egypt,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.5,3.0,3.2,3.0,2.7,2.5,2.3,2.1,2.0,1.8,1.7,1.6,1.5,1.6,1.3,1.2,1.0,1.0,1.0,0.9,0.7,0.9,0.7,0.7
+818,Egypt,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.8,2.3,2.5,2.3,2.1,1.9,1.8,1.6,1.5,1.4,1.3,1.3,1.2,1.3,1.1,1.1,0.9,0.9,0.9,0.8,0.7,0.8,0.6,0.6
+818,Egypt,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.2,3.7,4.0,3.7,3.4,3.2,2.9,2.7,2.5,2.3,2.2,2.0,1.8,1.8,1.5,1.3,1.1,1.1,1.1,1.0,0.8,1.0,0.8,0.8
+222,El Salvador,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.8,6.1,6.2,5.6,4.6,3.8,4.1,4.2,3.6,3.5,2.8,2.4,2.5,1.7,2.2,1.8,1.2,1.9,1.6,1.4,1.4,1.0,1.1,1.0
+222,El Salvador,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.8,3.9,3.3,3.0,2.9,2.6,2.9,2.8,2.5,2.5,2.1,1.7,1.8,1.2,1.6,1.4,0.9,1.5,1.2,1.0,1.2,0.9,0.9,0.8
+222,El Salvador,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.4,8.9,10.0,9.0,6.8,5.2,5.4,5.8,5.0,4.6,3.6,3.1,3.3,2.2,2.8,2.3,1.5,2.5,2.0,1.7,1.5,1.1,1.2,1.1
+226,Equatorial Guinea,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.3,7.4,7.0,6.6,6.3,6.3,6.7,7.4,8.0,8.5,8.7,8.5,8.1,7.6,7.2,7.0,7.1,7.3,7.6,8.0,8.3,8.5,8.8,8.8
+226,Equatorial Guinea,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.5,4.2,3.9,3.6,3.6,3.7,3.6,4.1,4.7,4.9,4.8,4.5,4.1,3.9,4.0,4.1,4.1,4.3,4.6,4.8,4.6,4.2,3.7,2.8
+226,Equatorial Guinea,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",11.0,10.0,9.8,9.3,9.3,9.5,10.0,11.0,13.0,13.0,14.0,13.0,12.0,12.0,11.0,11.0,11.0,11.0,12.0,13.0,13.0,13.0,14.0,15.0
+232,Eritrea,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",38.0,28.0,20.0,15.0,11.0,9.2,8.7,9.3,11.0,12.0,14.0,16.0,17.0,19.0,20.0,20.0,21.0,21.0,21.0,21.0,21.0,20.0,20.0,20.0
+232,Eritrea,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",13.0,7.8,4.2,1.6,0.1,0.0,0.0,2.3,5.3,7.5,8.0,8.2,8.2,8.5,8.9,9.2,10.0,9.9,9.1,9.4,9.5,10.0,10.0,10.0
+232,Eritrea,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",58.0,43.0,34.0,29.0,26.0,24.0,22.0,21.0,23.0,24.0,30.0,30.0,32.0,32.0,34.0,33.0,33.0,33.0,33.0,33.0,33.0,32.0,30.0,29.0
+233,Estonia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.5,4.6,5.3,7.4,8.8,10.0,9.8,10.0,11.0,11.0,8.1,7.4,6.8,7.1,7.6,3.8,5.0,4.8,3.7,3.4,2.8,2.8,2.5,2.5
+233,Estonia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.5,4.5,5.2,7.2,8.7,10.0,9.6,10.0,10.0,10.0,7.9,7.2,6.7,6.9,7.5,3.8,4.9,4.7,3.6,3.3,2.8,2.8,2.4,2.4
+233,Estonia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.6,4.7,5.4,7.5,9.0,10.0,10.0,10.0,11.0,11.0,8.3,7.5,7.0,7.2,7.8,3.9,5.1,4.9,3.7,3.4,2.9,2.9,2.5,2.5
+231,Ethiopia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",89.0,99.0,108.0,115.0,119.0,121.0,120.0,118.0,114.0,108.0,102.0,95.0,87.0,79.0,72.0,66.0,60.0,55.0,50.0,46.0,42.0,39.0,35.0,32.0
+231,Ethiopia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",55.0,66.0,73.0,79.0,81.0,84.0,87.0,87.0,81.0,75.0,70.0,64.0,58.0,52.0,45.0,39.0,36.0,35.0,32.0,29.0,25.0,24.0,21.0,17.0
+231,Ethiopia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",130.0,135.0,137.0,144.0,154.0,157.0,151.0,139.0,136.0,132.0,127.0,118.0,108.0,97.0,91.0,84.0,79.0,72.0,69.0,65.0,60.0,55.0,52.0,50.0
+97,European Union (EU),647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+97,European Union (EU),793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+97,European Union (EU),794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+234,Faeroe Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+234,Faeroe Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+234,Faeroe Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+238,Falkland Islands (Malvinas),647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+238,Falkland Islands (Malvinas),793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+238,Falkland Islands (Malvinas),794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+242,Fiji,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.7,5.5,5.3,5.1,4.9,4.7,4.5,4.3,4.1,3.9,3.7,3.5,3.4,3.2,3.0,2.9,2.7,2.6,2.5,2.3,2.9,3.7,4.2,4.2
+242,Fiji,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.5,3.4,3.3,3.2,3.1,2.9,2.8,2.7,2.6,2.4,2.6,2.7,2.8,2.8,2.7,2.7,2.6,2.5,2.4,2.3,2.9,3.6,4.1,4.1
+242,Fiji,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",8.3,8.0,7.7,7.4,7.1,6.9,6.6,6.3,6.0,5.7,5.0,4.4,4.0,3.6,3.3,3.1,2.9,2.7,2.5,2.4,3.0,3.7,4.2,4.2
+246,Finland,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.5,1.6,1.8,1.6,1.5,1.8,2.1,1.5,1.1,1.3,1.6,1.0,1.1,0.9,0.6,0.7,0.4,0.5,0.5,0.5,0.3,0.4,0.4,0.3
+246,Finland,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.5,1.6,1.8,1.6,1.5,1.8,2.1,1.5,1.1,1.3,1.6,1.0,1.1,0.9,0.6,0.7,0.4,0.5,0.5,0.5,0.3,0.4,0.4,0.3
+246,Finland,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.5,1.6,1.8,1.6,1.5,1.8,2.1,1.5,1.2,1.3,1.6,1.0,1.1,0.9,0.6,0.7,0.4,0.5,0.5,0.5,0.3,0.4,0.4,0.3
+250,France,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.8,1.7,1.5,1.7,1.5,1.4,1.3,1.3,1.4,1.3,1.1,1.1,0.9,0.9,0.8,0.7,0.7,0.6,0.6,0.6,0.6,0.6,0.6,0.5
+250,France,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.8,1.6,1.5,1.6,1.5,1.3,1.2,1.2,1.3,1.2,1.1,1.0,0.8,0.9,0.7,0.7,0.7,0.6,0.6,0.6,0.5,0.6,0.5,0.5
+250,France,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.9,1.7,1.6,1.7,1.6,1.4,1.3,1.3,1.4,1.3,1.2,1.1,0.9,0.9,0.8,0.8,0.7,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+254,French Guiana,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+254,French Guiana,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+254,French Guiana,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+258,French Polynesia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.7,1.0,5.9,3.3,4.9,3.8,3.1,4.2,7.4,5.4,1.2,1.0,2.4,1.0,2.7,3.1,4.4,3.5,1.0,1.7,0.6,3.9,1.4,1.8
+258,French Polynesia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.9,0.2,3.2,1.2,2.3,1.5,1.1,1.8,4.3,2.9,0.4,0.2,0.9,0.3,1.2,1.6,2.5,1.9,0.3,0.6,0.1,2.3,0.5,0.7
+258,French Polynesia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.3,2.3,9.4,6.6,8.5,7.4,6.3,7.7,12.0,8.9,2.7,2.5,4.7,2.1,4.8,5.3,6.7,5.7,2.4,3.4,1.4,6.0,2.9,3.4
+266,Gabon,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",60.0,64.0,67.0,72.0,78.0,86.0,97.0,110.0,122.0,134.0,143.0,150.0,153.0,154.0,152.0,146.0,137.0,123.0,109.0,96.0,83.0,72.0,63.0,55.0
+266,Gabon,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",41.0,43.0,47.0,51.0,57.0,63.0,71.0,79.0,87.0,94.0,101.0,105.0,108.0,108.0,106.0,102.0,96.0,85.0,76.0,67.0,58.0,49.0,40.0,32.0
+266,Gabon,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",76.0,77.0,81.0,86.0,94.0,104.0,119.0,136.0,150.0,162.0,172.0,179.0,183.0,183.0,179.0,173.0,163.0,151.0,138.0,125.0,112.0,98.0,86.0,78.0
+270,Gambia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",33.0,29.0,27.0,24.0,23.0,22.0,22.0,22.0,22.0,23.0,24.0,24.0,24.0,24.0,24.0,24.0,23.0,23.0,22.0,22.0,21.0,21.0,21.0,20.0
+270,Gambia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",12.0,14.0,15.0,13.0,13.0,13.0,13.0,13.0,15.0,14.0,15.0,14.0,15.0,15.0,14.0,14.0,15.0,15.0,14.0,14.0,13.0,13.0,11.0,8.6
+270,Gambia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",52.0,47.0,41.0,36.0,33.0,32.0,31.0,29.0,31.0,32.0,33.0,32.0,32.0,31.0,32.0,32.0,32.0,33.0,32.0,32.0,32.0,32.0,32.0,33.0
+268,Georgia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",8.9,8.2,7.4,7.4,7.4,8.2,7.5,8.7,7.5,7.6,7.7,6.9,6.9,6.9,7.0,3.8,4.1,3.7,4.2,4.7,5.4,6.2,7.1,7.0
+268,Georgia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",7.8,7.2,6.6,6.4,6.3,7.2,6.5,7.6,6.6,6.7,6.7,6.0,6.0,5.9,5.9,3.3,3.4,3.2,3.5,3.7,4.1,4.4,4.7,4.7
+268,Georgia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",10.0,9.2,8.3,8.4,8.6,9.3,8.5,9.9,8.6,8.6,8.8,7.8,7.9,8.0,8.2,4.5,4.8,4.2,4.9,5.8,6.9,8.2,9.9,9.8
+276,Germany,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.3,1.1,1.1,1.0,0.9,0.9,0.9,0.7,0.7,0.6,0.6,0.5,0.5,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+276,Germany,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.3,1.1,1.1,1.0,0.9,0.9,0.8,0.7,0.7,0.6,0.6,0.5,0.5,0.5,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.4,0.4,0.4
+276,Germany,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.3,1.1,1.1,1.0,1.0,0.9,0.9,0.8,0.7,0.6,0.6,0.5,0.5,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+288,Ghana,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",45.0,43.0,42.0,41.0,39.0,38.0,37.0,35.0,33.0,32.0,30.0,28.0,26.0,24.0,22.0,20.0,18.0,16.0,14.0,12.0,9.6,7.7,6.0,4.4
+288,Ghana,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",24.0,26.0,28.0,27.0,26.0,25.0,25.0,25.0,24.0,22.0,21.0,20.0,18.0,17.0,15.0,13.0,12.0,10.0,9.2,7.9,6.3,5.0,3.8,2.7
+288,Ghana,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",68.0,64.0,58.0,53.0,53.0,52.0,49.0,45.0,40.0,39.0,38.0,36.0,33.0,31.0,28.0,25.0,22.0,19.0,17.0,14.0,12.0,11.0,8.9,8.0
+292,Gibraltar,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+292,Gibraltar,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+292,Gibraltar,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+300,Greece,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.6,2.0,2.2,1.8,1.2,1.2,1.1,0.9,0.8,0.9,0.8,1.0,0.8,1.1,0.7,0.9,0.8,0.9,0.8,0.9,0.7,0.7,0.7,0.7
+300,Greece,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.5,2.0,2.1,1.6,1.1,1.1,1.0,0.8,0.8,0.9,0.8,1.0,0.8,1.0,0.7,0.9,0.8,0.9,0.8,0.8,0.7,0.6,0.7,0.7
+300,Greece,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.7,2.1,2.4,1.9,1.3,1.3,1.2,1.0,0.9,1.0,0.9,1.1,0.9,1.1,0.8,0.9,0.8,1.0,0.8,0.9,0.7,0.7,0.7,0.7
+304,Greenland,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,17.0,17.0,17.0,16.0,16.0,33.0,33.0,5.2,15.0
+304,Greenland,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.1,6.1,6.2,6.1,6.1,6.1,6.1,6.2,6.1,6.1,6.0,6.0,6.2,6.5,6.7,6.8,6.9,6.8,6.7,6.7,19.0,19.0,1.0,5.4
+304,Greenland,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,31.0,31.0,31.0,31.0,31.0,31.0,31.0,51.0,51.0,13.0,29.0
+308,Grenada,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,1.1,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.1
+308,Grenada,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.9,1.0,1.0,1.0,1.0
+308,Grenada,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,1.2,1.1,2.0,1.1,1.0,1.0,2.0,1.0,1.0,1.0,1.1
+312,Guadeloupe,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+312,Guadeloupe,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+312,Guadeloupe,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+316,Guam,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.5,3.0,1.8,4.2,12.0,8.4,5.9,4.2,3.0,2.5,2.8,7.0,3.9,0.9,3.6,6.3,1.2,1.5,10.0,14.0,13.0,6.7,2.6,1.3
+316,Guam,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.9,0.9,0.4,1.5,7.0,4.5,2.7,1.6,0.9,0.8,1.0,4.2,1.9,0.2,1.7,3.6,0.2,0.4,6.2,8.6,8.0,3.5,0.8,0.3
+316,Guam,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",8.4,6.3,4.7,8.4,18.0,14.0,11.0,8.4,6.3,5.5,5.7,11.0,6.7,2.1,6.4,9.8,2.8,3.3,15.0,20.0,19.0,11.0,5.7,3.1
+320,Guatemala,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",9.7,11.0,10.0,8.4,8.4,6.3,6.7,6.1,5.5,5.2,5.1,4.8,4.1,3.7,3.4,3.3,3.0,2.8,2.9,3.1,2.5,2.1,1.7,1.6
+320,Guatemala,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",9.0,9.7,8.8,7.3,7.5,5.7,5.9,5.6,5.1,4.7,4.6,4.3,3.6,3.3,3.0,2.9,2.7,2.4,2.6,2.7,2.4,2.0,1.6,1.6
+320,Guatemala,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",10.0,12.0,11.0,9.4,9.3,7.1,7.5,6.7,5.9,5.7,5.7,5.3,4.5,4.1,3.9,3.6,3.3,3.1,3.3,3.6,2.5,2.2,1.7,1.7
+324,Guinea,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",91.0,90.0,89.0,87.0,85.0,83.0,79.0,75.0,71.0,67.0,63.0,59.0,56.0,53.0,50.0,47.0,44.0,41.0,37.0,35.0,33.0,31.0,29.0,27.0
+324,Guinea,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",64.0,64.0,63.0,62.0,61.0,59.0,57.0,55.0,52.0,48.0,45.0,42.0,40.0,37.0,34.0,32.0,30.0,27.0,25.0,24.0,22.0,20.0,19.0,17.0
+324,Guinea,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",115.0,110.0,105.0,100.0,97.0,94.0,89.0,86.0,84.0,80.0,75.0,70.0,66.0,62.0,58.0,55.0,52.0,50.0,47.0,45.0,42.0,40.0,38.0,37.0
+624,Guinea-Bissau,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",60.0,57.0,56.0,55.0,55.0,56.0,57.0,58.0,59.0,61.0,62.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,64.0,64.0,65.0,68.0,71.0
+624,Guinea-Bissau,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",35.0,36.0,37.0,36.0,33.0,35.0,39.0,40.0,40.0,41.0,42.0,42.0,42.0,40.0,39.0,39.0,40.0,42.0,42.0,42.0,41.0,41.0,37.0,34.0
+624,Guinea-Bissau,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",89.0,83.0,77.0,74.0,78.0,79.0,76.0,72.0,77.0,81.0,82.0,79.0,77.0,77.0,78.0,78.0,80.0,83.0,86.0,89.0,91.0,97.0,98.0,107.0
+328,Guyana,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.5,8.6,7.5,7.1,7.3,9.1,15.0,16.0,16.0,12.0,13.0,14.0,21.0,19.0,26.0,16.0,16.0,16.0,15.0,12.0,16.0,16.0,16.0,16.0
+328,Guyana,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.0,5.8,4.5,4.8,4.5,6.7,9.7,11.0,11.0,6.9,8.2,9.5,15.0,13.0,18.0,14.0,14.0,13.0,12.0,9.7,16.0,16.0,16.0,16.0
+328,Guyana,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",10.0,12.0,11.0,9.7,11.0,12.0,21.0,23.0,23.0,19.0,20.0,20.0,28.0,26.0,36.0,19.0,19.0,19.0,18.0,14.0,16.0,16.0,16.0,16.0
+332,Haiti,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",50.0,55.0,59.0,62.0,64.0,66.0,68.0,69.0,70.0,69.0,67.0,65.0,64.0,61.0,59.0,56.0,53.0,49.0,45.0,40.0,36.0,32.0,29.0,26.0
+332,Haiti,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",28.0,36.0,40.0,44.0,46.0,47.0,49.0,49.0,50.0,49.0,47.0,46.0,45.0,44.0,42.0,40.0,38.0,35.0,31.0,27.0,23.0,20.0,17.0,14.0
+332,Haiti,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",78.0,79.0,81.0,83.0,85.0,88.0,89.0,91.0,92.0,92.0,89.0,87.0,84.0,81.0,78.0,75.0,70.0,65.0,60.0,56.0,52.0,48.0,45.0,41.0
+340,Honduras,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.4,6.5,6.5,6.4,6.4,6.2,6.0,5.8,5.5,5.3,5.0,4.7,4.5,4.2,4.0,3.8,3.7,3.5,3.4,3.2,3.1,3.0,2.9,2.9
+340,Honduras,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.0,2.0,2.1,2.1,2.0,1.9,1.7,1.5,1.3,1.1,1.0,0.8,0.7,0.6,0.5,0.4,0.3,0.2,0.2,0.4,0.1,0.1,0.1,0.1
+340,Honduras,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,12.0,12.0,12.0,12.0,12.0,11.0,11.0,11.0,11.0,11.0,9.2,11.0,11.0,11.0,11.0
+348,Hungary,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.3,5.3,5.9,5.8,5.6,5.5,5.1,4.7,4.4,4.4,3.5,3.2,2.8,2.3,2.6,1.9,1.3,1.4,1.2,1.2,1.1,0.8,0.9,0.8
+348,Hungary,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.3,5.3,5.9,5.8,5.5,5.5,5.1,4.6,4.4,4.4,3.5,3.2,2.8,2.3,2.6,1.9,1.3,1.4,1.2,1.2,1.1,0.8,0.9,0.8
+348,Hungary,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.3,5.3,5.9,5.8,5.6,5.6,5.2,4.7,4.4,4.4,3.5,3.2,2.8,2.3,2.6,1.9,1.3,1.4,1.2,1.2,1.1,0.8,0.9,0.8
+352,Iceland,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.4,0.8,1.6,0.8,1.6,0.8,0.8,0.7,0.8,0.4,0.4,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+352,Iceland,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.4,0.8,1.6,0.8,1.6,0.8,0.7,0.7,0.8,0.4,0.4,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+352,Iceland,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.4,0.8,1.6,0.8,1.7,0.8,0.8,0.8,0.8,0.4,0.4,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+356,India,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",38.0,38.0,38.0,38.0,38.0,38.0,38.0,39.0,39.0,39.0,39.0,39.0,39.0,38.0,37.0,36.0,34.0,33.0,31.0,29.0,27.0,24.0,22.0,19.0
+356,India,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,24.0,26.0,23.0,22.0,20.0,19.0,17.0,16.0,14.0,12.0
+356,India,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,55.0,55.0,55.0,55.0,54.0,53.0,47.0,49.0,46.0,44.0,41.0,38.0,34.0,31.0,28.0
+360,Indonesia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",70.0,72.0,75.0,77.0,79.0,80.0,80.0,80.0,78.0,75.0,71.0,66.0,60.0,54.0,48.0,43.0,39.0,35.0,32.0,30.0,29.0,27.0,26.0,25.0
+360,Indonesia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",47.0,50.0,52.0,55.0,57.0,58.0,60.0,60.0,58.0,55.0,52.0,48.0,43.0,38.0,33.0,29.0,26.0,24.0,22.0,20.0,19.0,18.0,16.0,14.0
+360,Indonesia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",89.0,89.0,89.0,90.0,91.0,93.0,92.0,91.0,92.0,90.0,85.0,79.0,73.0,66.0,58.0,53.0,49.0,46.0,43.0,42.0,40.0,38.0,38.0,37.0
+364,Iran (Islamic Republic of),647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.0,5.1,5.1,5.2,5.2,5.1,4.9,4.7,4.4,4.1,3.8,3.6,3.5,3.4,3.3,3.2,3.1,3.0,2.9,2.9,2.9,3.0,3.1,3.2
+364,Iran (Islamic Republic of),793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.1,3.2,3.2,3.2,3.2,3.3,3.3,3.3,3.0,2.8,2.6,2.4,2.3,2.2,2.1,1.9,1.9,2.0,2.0,2.0,2.0,2.0,1.9,1.8
+364,Iran (Islamic Republic of),794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.7,7.1,6.6,6.5,6.9,7.0,6.6,6.0,5.6,5.5,5.2,4.9,4.6,4.4,4.2,4.1,4.0,4.0,4.1,4.2,4.2,4.3,4.3,4.5
+368,Iraq,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.7,5.5,5.3,5.1,4.9,4.7,4.5,4.3,4.2,4.0,3.8,3.7,3.6,3.4,3.3,3.2,3.1,2.9,2.8,2.7,2.6,2.5,2.4,2.3
+368,Iraq,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.9,1.8,1.7,1.5,1.4,1.2,1.1,1.0,0.8,0.7,0.6,0.6,0.5,0.4,0.4,0.3,0.3,0.2,0.2,0.3,0.1,0.1,0.1,0.1
+368,Iraq,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",11.0,11.0,11.0,11.0,11.0,10.0,10.0,10.0,10.0,10.0,9.9,9.8,9.7,9.5,9.4,9.3,9.3,9.2,9.1,7.6,9.0,9.0,8.8,8.8
+372,Ireland,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.5,1.5,1.1,1.7,1.2,1.0,0.9,1.0,1.2,0.9,1.0,0.7,0.7,0.6,0.6,0.4,0.5,0.8,0.4,0.6,0.6,0.5,0.4,0.4
+372,Ireland,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.4,1.4,1.1,1.7,1.2,1.0,0.9,1.0,1.2,0.9,1.0,0.7,0.7,0.6,0.6,0.4,0.5,0.8,0.4,0.5,0.6,0.5,0.4,0.4
+372,Ireland,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.5,1.5,1.1,1.7,1.2,1.0,0.9,1.0,1.2,0.9,1.0,0.7,0.7,0.6,0.6,0.4,0.5,0.8,0.4,0.6,0.6,0.5,0.4,0.4
+376,Israel,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.5,0.4,0.6,0.6,0.9,1.1,0.8,1.2,0.9,0.6,0.6,0.3,0.5,0.4,0.2,0.4,0.3,0.4,0.2,0.2,0.2,0.2,0.2,0.2
+376,Israel,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.4,0.5,0.6,0.9,1.0,0.8,1.1,0.8,0.5,0.6,0.3,0.4,0.4,0.2,0.4,0.3,0.4,0.2,0.2,0.2,0.2,0.2,0.2
+376,Israel,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.5,0.4,0.6,0.7,1.0,1.1,0.8,1.2,0.9,0.6,0.6,0.3,0.5,0.4,0.3,0.4,0.3,0.4,0.2,0.2,0.3,0.2,0.2,0.2
+380,Italy,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.1,1.1,1.0,1.0,1.0,1.2,1.1,1.1,1.0,0.9,0.9,0.8,0.7,0.7,0.7,0.6,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.5
+380,Italy,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.0,1.0,0.9,1.0,1.0,1.2,1.1,1.1,1.0,0.9,0.8,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.5
+380,Italy,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.1,1.1,1.0,1.1,1.0,1.2,1.1,1.1,1.0,1.0,0.9,0.8,0.7,0.7,0.7,0.6,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.5
+388,Jamaica,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.9,1.2,1.2,1.1,1.0,1.0,0.9,0.8,0.8,0.7,0.7,0.5,0.7,1.2,0.6,0.7,0.4,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+388,Jamaica,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.7,1.0,0.9,0.9,0.9,0.8,0.8,0.8,0.7,0.7,0.7,0.5,0.6,1.1,0.6,0.7,0.3,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+388,Jamaica,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.1,1.5,1.4,1.3,1.2,1.1,1.0,0.9,0.9,0.8,0.7,0.6,0.7,1.3,0.7,0.8,0.5,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+392,Japan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.1,2.8,2.8,2.7,2.6,2.6,2.4,2.3,2.3,2.4,2.2,2.0,1.9,1.9,1.9,1.9,1.8,1.8,1.8,1.8,1.8,1.8,1.7,1.7
+392,Japan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.1,2.8,2.8,2.7,2.5,2.6,2.3,2.2,2.3,2.4,2.2,2.0,1.9,1.9,1.9,1.8,1.8,1.8,1.8,1.7,1.7,1.7,1.7,1.6
+392,Japan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",3.2,2.9,2.9,2.8,2.6,2.7,2.4,2.3,2.4,2.5,2.2,2.1,1.9,2.0,2.0,1.9,1.9,1.8,1.9,1.8,1.8,1.8,1.8,1.7
+400,Jordan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.2,1.1,1.0,1.0,0.9,0.9,0.9,0.8,0.8,0.8,0.8,0.8,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.5
+400,Jordan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+400,Jordan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.4,9.2,9.0,8.9,8.7,8.6,8.5,8.4,8.3,8.2,8.1,8.0,7.9,7.7,7.5,7.4,7.2,6.9,6.7,6.1,6.2,5.9,5.7,5.5
+398,Kazakhstan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",13.0,13.0,15.0,17.0,23.0,33.0,45.0,47.0,50.0,38.0,33.0,30.0,31.0,29.0,27.0,28.0,24.0,21.0,20.0,16.0,13.0,12.0,11.0,9.5
+398,Kazakhstan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",11.0,12.0,13.0,16.0,21.0,31.0,40.0,43.0,44.0,34.0,29.0,27.0,28.0,26.0,24.0,25.0,22.0,20.0,18.0,14.0,12.0,10.0,8.8,7.1
+398,Kazakhstan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",14.0,15.0,16.0,19.0,25.0,36.0,49.0,52.0,56.0,43.0,37.0,33.0,34.0,32.0,30.0,30.0,26.0,23.0,21.0,17.0,15.0,14.0,13.0,12.0
+404,Kenya,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",37.0,32.0,27.0,22.0,18.0,16.0,15.0,15.0,15.0,16.0,18.0,19.0,20.0,21.0,21.0,22.0,21.0,20.0,19.0,18.0,18.0,18.0,19.0,20.0
+404,Kenya,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",25.0,22.0,18.0,15.0,12.0,11.0,9.9,9.8,10.0,11.0,11.0,12.0,12.0,12.0,13.0,13.0,13.0,12.0,11.0,11.0,11.0,11.0,12.0,12.0
+404,Kenya,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",46.0,39.0,32.0,26.0,22.0,20.0,20.0,20.0,21.0,22.0,24.0,25.0,26.0,27.0,28.0,28.0,28.0,27.0,26.0,25.0,25.0,25.0,26.0,27.0
+296,Kiribati,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",29.0,44.0,14.0,40.0,45.0,38.0,15.0,34.0,41.0,18.0,15.0,14.0,29.0,29.0,29.0,29.0,29.0,29.0,29.0,29.0,29.0,29.0,29.0,29.0
+296,Kiribati,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",20.0,27.0,11.0,31.0,29.0,27.0,11.0,24.0,30.0,11.0,11.0,9.7,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0
+296,Kiribati,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",39.0,64.0,18.0,50.0,65.0,50.0,21.0,46.0,53.0,27.0,20.0,18.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0
+408,"Korea, Democratic People's Republic of",647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",110.0,121.0,132.0,140.0,146.0,149.0,148.0,144.0,138.0,131.0,123.0,115.0,107.0,99.0,91.0,82.0,72.0,61.0,51.0,43.0,36.0,31.0,29.0,27.0
+408,"Korea, Democratic People's Republic of",793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",105.0,113.0,114.0,114.0,111.0,109.0,110.0,109.0,101.0,93.0,85.0,78.0,73.0,64.0,57.0,48.0,42.0,37.0,33.0,28.0,22.0,17.0,15.0,12.0
+408,"Korea, Democratic People's Republic of",794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",224.0,216.0,206.0,198.0,205.0,204.0,195.0,180.0,164.0,162.0,156.0,147.0,136.0,123.0,114.0,106.0,97.0,84.0,73.0,64.0,57.0,49.0,46.0,46.0
+410,"Korea, Republic of",647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",11.0,11.0,11.0,10.0,10.0,10.0,9.3,9.2,9.1,8.7,8.6,7.9,8.0,8.0,7.2,7.1,6.6,5.6,5.5,5.3,5.4,5.4,5.6,5.2
+410,"Korea, Republic of",793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",10.0,9.9,9.9,9.9,9.7,9.5,8.5,8.3,8.3,7.8,7.9,7.4,7.6,7.6,6.7,6.6,6.2,5.3,5.1,5.0,5.1,5.1,5.3,4.9
+410,"Korea, Republic of",794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",12.0,12.0,11.0,11.0,11.0,11.0,10.0,10.0,9.9,9.6,9.3,8.5,8.5,8.5,7.7,7.6,7.1,6.0,5.8,5.6,5.7,5.7,5.8,5.5
+414,Kuwait,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.0,1.0,1.0,1.1,0.8,1.4,0.8,1.3,0.5,1.2,0.8,0.9,1.2,0.8,0.9,1.0,0.8,1.1,0.8,1.2,1.2,0.6,1.0,1.0
+414,Kuwait,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.8,0.8,0.8,0.9,0.7,1.3,0.7,1.2,0.5,1.2,0.8,0.9,1.2,0.8,0.9,1.0,0.8,1.1,0.8,1.2,1.2,0.6,0.9,0.9
+414,Kuwait,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.2,1.1,1.1,1.2,0.8,1.5,0.8,1.4,0.5,1.2,0.8,0.9,1.2,0.8,0.9,1.0,0.8,1.1,0.8,1.3,1.3,0.6,1.0,1.0
+417,Kyrgyzstan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",9.1,10.0,11.0,12.0,16.0,16.0,16.0,19.0,21.0,22.0,25.0,29.0,24.0,22.0,21.0,16.0,17.0,14.0,13.0,12.0,12.0,12.0,11.0,11.0
+417,Kyrgyzstan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",7.6,8.7,9.4,11.0,14.0,13.0,14.0,17.0,19.0,20.0,23.0,26.0,22.0,20.0,18.0,16.0,17.0,14.0,12.0,11.0,12.0,12.0,11.0,11.0
+417,Kyrgyzstan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",11.0,12.0,13.0,15.0,19.0,18.0,19.0,22.0,24.0,25.0,28.0,32.0,27.0,25.0,24.0,16.0,17.0,14.0,13.0,12.0,12.0,12.0,11.0,11.0
+418,Lao People's Democratic Republic,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",194.0,188.0,181.0,174.0,167.0,160.0,152.0,145.0,137.0,129.0,121.0,114.0,107.0,100.0,94.0,88.0,82.0,77.0,72.0,68.0,64.0,60.0,56.0,53.0
+418,Lao People's Democratic Republic,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",125.0,129.0,127.0,122.0,118.0,114.0,111.0,108.0,99.0,92.0,84.0,79.0,73.0,68.0,61.0,56.0,54.0,52.0,49.0,46.0,42.0,40.0,35.0,29.0
+418,Lao People's Democratic Republic,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",257.0,240.0,222.0,208.0,206.0,202.0,190.0,172.0,161.0,154.0,147.0,137.0,126.0,117.0,111.0,106.0,99.0,96.0,92.0,89.0,85.0,83.0,79.0,82.0
+428,Latvia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.2,5.8,7.3,9.8,13.0,14.0,12.0,13.0,14.0,13.0,13.0,12.0,8.7,9.3,7.9,8.1,8.5,5.9,5.3,4.5,4.0,3.3,2.8,2.1
+428,Latvia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",7.1,5.7,7.1,9.6,13.0,14.0,11.0,13.0,14.0,13.0,12.0,11.0,8.5,9.1,7.7,7.9,8.2,5.8,5.1,4.4,3.9,3.2,2.7,2.1
+428,Latvia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.3,5.9,7.5,10.0,14.0,14.0,12.0,13.0,15.0,14.0,13.0,12.0,9.0,9.6,8.2,8.3,8.8,6.1,5.5,4.7,4.2,3.4,2.8,2.1
+422,Lebanon,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.9,1.7,1.6,1.4,1.3,1.1,0.9,1.2,1.1,0.9,0.8,0.6,0.5,0.5,0.7,0.8,0.9,1.0,1.1,1.3,1.4,1.5,1.4,0.9
+422,Lebanon,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.5,0.4,0.3,0.3,0.2,0.2,0.4,0.3,0.3,0.3,0.1,0.1,0.1,0.2,0.3,0.3,0.4,0.5,0.6,0.7,0.7,0.6,0.2
+422,Lebanon,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.1,3.9,3.6,3.4,3.1,2.8,2.4,2.5,2.2,1.9,1.8,1.5,1.3,1.3,1.5,1.6,1.8,1.9,2.0,2.2,2.4,2.7,2.6,1.9
+426,Lesotho,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",68.0,62.0,56.0,53.0,51.0,53.0,57.0,62.0,66.0,68.0,71.0,72.0,74.0,76.0,77.0,76.0,75.0,69.0,69.0,63.0,63.0,61.0,53.0,46.0
+426,Lesotho,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",35.0,37.0,36.0,29.0,29.0,36.0,40.0,37.0,36.0,38.0,42.0,46.0,48.0,48.0,47.0,44.0,43.0,42.0,43.0,39.0,38.0,35.0,26.0,18.0
+426,Lesotho,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",103.0,86.0,78.0,88.0,88.0,85.0,79.0,94.0,101.0,96.0,88.0,87.0,90.0,91.0,94.0,97.0,97.0,90.0,92.0,89.0,93.0,96.0,88.0,86.0
+430,Liberia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",38.0,42.0,46.0,49.0,52.0,55.0,57.0,57.0,57.0,56.0,55.0,53.0,52.0,51.0,50.0,48.0,48.0,48.0,47.0,47.0,48.0,48.0,49.0,49.0
+430,Liberia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",15.0,23.0,31.0,35.0,38.0,39.0,41.0,40.0,40.0,39.0,38.0,37.0,37.0,36.0,35.0,34.0,34.0,33.0,33.0,33.0,32.0,32.0,31.0,30.0
+430,Liberia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",60.0,58.0,60.0,64.0,65.0,67.0,70.0,71.0,70.0,68.0,66.0,64.0,62.0,61.0,60.0,60.0,60.0,60.0,61.0,63.0,64.0,64.0,65.0,66.0
+434,Libyan Arab Jamahiriya,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",13.0,11.0,9.5,8.2,7.1,6.2,5.6,5.4,5.2,5.0,4.9,4.7,4.3,3.7,3.4,3.2,3.1,3.2,3.6,4.3,5.0,6.1,7.3,8.7
+434,Libyan Arab Jamahiriya,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",8.6,7.1,5.9,4.8,3.9,3.1,2.7,2.4,2.3,2.1,2.0,1.9,1.6,1.3,1.1,1.1,1.0,1.1,1.2,1.6,2.2,3.1,4.1,5.2
+434,Libyan Arab Jamahiriya,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",18.0,16.0,14.0,13.0,11.0,10.0,9.9,9.6,9.4,9.2,9.2,9.0,8.3,7.6,7.3,6.5,6.6,6.7,7.7,8.5,9.3,10.0,12.0,13.0
+438,Liechtenstein,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+438,Liechtenstein,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+438,Liechtenstein,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+440,Lithuania,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.0,8.1,8.2,11.0,12.0,14.0,12.0,12.0,12.0,11.0,11.0,10.0,9.8,9.9,9.3,11.0,12.0,11.0,11.0,8.7,7.3,7.1,8.4,8.4
+440,Lithuania,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",7.0,8.0,8.1,10.0,12.0,13.0,12.0,11.0,12.0,11.0,10.0,10.0,9.8,9.8,9.3,11.0,11.0,11.0,11.0,8.6,7.2,7.0,8.4,8.4
+440,Lithuania,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.0,8.2,8.4,11.0,12.0,14.0,12.0,12.0,12.0,11.0,11.0,10.0,9.8,9.9,9.4,11.0,12.0,11.0,11.0,8.7,7.3,7.1,8.5,8.5
+442,Luxembourg,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.6,0.3,0.0,0.3,1.0,0.0,0.0,0.5,1.2,0.5,0.2,0.5,0.7,0.7,0.7,0.2,0.2,0.4,0.4,0.4,0.2,0.2,0.2,0.4
+442,Luxembourg,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.3,0.0,0.3,1.0,0.0,0.0,0.5,1.2,0.5,0.2,0.5,0.7,0.7,0.7,0.2,0.2,0.4,0.4,0.4,0.2,0.2,0.2,0.4
+442,Luxembourg,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.6,0.3,0.0,0.3,1.1,0.0,0.0,0.5,1.2,0.5,0.2,0.5,0.7,0.7,0.7,0.2,0.2,0.4,0.4,0.4,0.2,0.2,0.2,0.4
+450,Madagascar,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",148.0,138.0,128.0,118.0,109.0,101.0,95.0,91.0,87.0,84.0,81.0,78.0,75.0,72.0,70.0,67.0,64.0,62.0,60.0,58.0,56.0,55.0,54.0,52.0
+450,Madagascar,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",103.0,96.0,89.0,84.0,78.0,73.0,70.0,67.0,63.0,60.0,58.0,55.0,53.0,51.0,49.0,47.0,45.0,43.0,42.0,41.0,39.0,38.0,36.0,34.0
+450,Madagascar,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",182.0,167.0,151.0,137.0,125.0,117.0,111.0,108.0,107.0,104.0,99.0,94.0,90.0,87.0,84.0,81.0,78.0,77.0,76.0,75.0,73.0,71.0,69.0,69.0
+454,Malawi,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",40.0,38.0,38.0,39.0,40.0,40.0,40.0,38.0,37.0,34.0,32.0,30.0,28.0,26.0,24.0,22.0,20.0,18.0,16.0,14.0,13.0,11.0,10.0,9.3
+454,Malawi,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",18.0,20.0,23.0,26.0,27.0,29.0,31.0,31.0,29.0,26.0,24.0,22.0,19.0,17.0,15.0,12.0,11.0,10.0,9.0,7.7,6.1,4.5,3.7,3.1
+454,Malawi,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",56.0,52.0,51.0,50.0,55.0,59.0,59.0,54.0,52.0,51.0,49.0,44.0,39.0,34.0,30.0,27.0,25.0,21.0,19.0,16.0,13.0,18.0,16.0,16.0
+458,Malaysia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.6,6.6,6.6,6.6,6.6,6.6,6.6,6.6,6.7,6.8,6.9,7.5,6.7,6.4,6.0,5.8,6.1,6.0,5.8,5.8,5.8,5.8,5.8,5.8
+458,Malaysia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.7,2.9,3.0,3.5,3.2,3.1,3.0,3.2,3.3,3.3,3.2,3.2,3.2,3.2,3.2,3.2
+458,Malaysia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,13.0,11.0,11.0,10.0,9.1,9.7,9.6,9.2,9.2,9.2,9.2,9.2,9.2
+462,Maldives,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",29.0,25.0,22.0,19.0,16.0,14.0,12.0,10.0,9.0,7.8,5.4,6.9,10.0,2.9,0.5,2.0,1.9,1.8,2.7,2.6,2.5,2.1,2.2,2.2
+462,Maldives,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",27.0,23.0,19.0,16.0,14.0,12.0,9.9,8.3,6.9,5.8,3.8,4.2,6.6,2.0,0.4,1.6,1.5,1.5,2.2,2.1,2.1,1.7,1.8,1.8
+462,Maldives,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",31.0,27.0,24.0,21.0,18.0,16.0,14.0,13.0,11.0,10.0,7.1,10.0,14.0,3.9,0.6,2.5,2.4,2.2,3.2,3.0,2.9,2.5,2.6,2.6
+466,Mali,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",19.0,19.0,19.0,18.0,18.0,18.0,17.0,17.0,16.0,15.0,15.0,14.0,14.0,13.0,13.0,12.0,12.0,11.0,10.0,10.0,9.9,9.9,10.0,10.0
+466,Mali,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",13.0,13.0,13.0,12.0,12.0,11.0,11.0,11.0,10.0,9.9,9.6,9.2,8.8,8.5,8.2,7.9,7.5,7.2,6.9,6.7,6.6,6.7,6.8,7.0
+466,Mali,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",23.0,23.0,23.0,22.0,22.0,22.0,21.0,20.0,20.0,19.0,18.0,17.0,17.0,16.0,16.0,15.0,14.0,14.0,13.0,13.0,13.0,13.0,13.0,13.0
+470,Malta,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.3,0.8,0.3,0.6,0.0,0.3,0.3,0.3,0.5,0.5,0.3,0.3,0.3,0.3,0.3,0.2,0.2,1.0,0.2,0.2,0.2,0.7,0.4,0.4
+470,Malta,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.3,0.8,0.3,0.5,0.0,0.3,0.3,0.3,0.5,0.5,0.3,0.3,0.2,0.2,0.3,0.2,0.2,1.0,0.2,0.2,0.2,0.7,0.4,0.4
+470,Malta,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.3,0.8,0.3,0.6,0.0,0.3,0.3,0.3,0.5,0.5,0.3,0.3,0.3,0.3,0.3,0.2,0.2,1.0,0.2,0.2,0.2,0.7,0.4,0.4
+584,Marshall Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.6,2.5,22.0,29.0,26.0,24.0,23.0,19.0,14.0,5.7,3.5,17.0,7.0,7.3,48.0,31.0,48.0,59.0,19.0,30.0,81.0,25.0,32.0,39.0
+584,Marshall Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.1,0.6,11.0,16.0,14.0,12.0,12.0,9.1,5.9,1.4,1.0,7.1,2.1,2.3,25.0,12.0,23.0,29.0,4.7,9.8,44.0,7.3,11.0,15.0
+584,Marshall Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.6,5.9,36.0,46.0,43.0,40.0,39.0,33.0,27.0,14.0,7.7,32.0,15.0,15.0,79.0,60.0,85.0,100.0,45.0,65.0,133.0,56.0,68.0,78.0
+474,Martinique,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+474,Martinique,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+474,Martinique,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+478,Mauritania,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",99.0,95.0,90.0,85.0,80.0,76.0,71.0,67.0,64.0,60.0,57.0,53.0,50.0,46.0,43.0,41.0,38.0,36.0,34.0,32.0,30.0,29.0,27.0,26.0
+478,Mauritania,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",52.0,55.0,59.0,56.0,51.0,46.0,45.0,43.0,42.0,40.0,37.0,36.0,31.0,29.0,27.0,23.0,22.0,22.0,22.0,20.0,18.0,18.0,16.0,14.0
+478,Mauritania,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",147.0,139.0,127.0,114.0,112.0,106.0,98.0,88.0,79.0,78.0,76.0,71.0,65.0,59.0,54.0,51.0,47.0,45.0,44.0,42.0,41.0,39.0,38.0,40.0
+480,Mauritius,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.7,2.7,2.0,1.9,1.7,1.1,0.8,2.2,0.8,1.3,0.5,0.8,0.8,0.9,1.3,1.2,0.7,1.2,1.3,1.3,1.0,1.6,1.1,1.2
+480,Mauritius,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.6,2.6,1.9,1.8,1.7,1.1,0.7,2.1,0.8,1.2,0.5,0.8,0.8,0.9,1.3,1.2,0.7,1.2,1.2,1.3,1.0,1.6,1.1,1.2
+480,Mauritius,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.8,2.7,2.0,1.9,1.8,1.2,0.8,2.3,0.8,1.3,0.5,0.8,0.8,1.0,1.3,1.2,0.7,1.2,1.3,1.3,1.0,1.6,1.1,1.2
+175,Mayotte,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+175,Mayotte,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+175,Mayotte,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+484,Mexico,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.8,6.9,6.6,6.2,5.8,5.5,5.1,4.6,4.3,3.8,3.3,3.3,3.1,3.1,2.4,2.5,2.3,2.1,2.2,2.0,2.2,2.1,1.8,1.8
+484,Mexico,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",7.5,6.5,6.2,5.7,5.4,5.2,4.9,4.4,4.2,3.7,3.2,3.2,2.9,2.9,2.3,2.4,2.1,2.0,2.1,1.9,2.1,2.1,1.8,1.8
+484,Mexico,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",8.1,7.3,7.1,6.6,6.3,5.9,5.4,4.8,4.5,4.0,3.5,3.4,3.2,3.2,2.5,2.6,2.4,2.2,2.3,2.1,2.3,2.1,1.8,1.8
+583,"Micronesia, Federated States of",647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",26.0,44.0,58.0,70.0,79.0,86.0,89.0,88.0,86.0,84.0,81.0,78.0,74.0,69.0,64.0,58.0,52.0,47.0,42.0,37.0,32.0,28.0,25.0,21.0
+583,"Micronesia, Federated States of",793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.5,3.7,21.0,23.0,26.0,31.0,43.0,47.0,42.0,44.0,45.0,40.0,32.0,34.0,26.0,26.0,19.0,11.0,7.3,6.6,4.7,3.8,3.1,2.5
+583,"Micronesia, Federated States of",794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",172.0,199.0,119.0,150.0,169.0,173.0,154.0,144.0,150.0,140.0,130.0,132.0,139.0,120.0,123.0,108.0,104.0,113.0,115.0,102.0,100.0,93.0,85.0,79.0
+492,Monaco,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.7,0.1,0.7,0.7,0.7,0.7,0.1,0.1,0.1,4.0,0.0,0.0,0.0,0.0,0.1,0.2,0.2,0.3,0.4,0.5,0.6,0.1,0.1,0.1
+492,Monaco,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.0,0.4,0.4,0.4,0.4,0.0,0.0,0.0,2.8,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,0.3,0.4,0.0,0.0,0.0
+492,Monaco,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.0,0.2,1.0,1.0,1.0,1.0,0.2,0.2,0.1,5.3,0.1,0.1,0.1,0.1,0.1,0.3,0.4,0.5,0.6,0.7,0.9,0.2,0.2,0.2
+496,Mongolia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",16.0,16.0,15.0,14.0,13.0,13.0,12.0,11.0,10.0,9.8,9.1,8.5,7.9,7.4,6.9,6.5,6.2,5.9,5.6,5.4,5.2,5.1,5.0,4.9
+496,Mongolia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",13.0,12.0,11.0,10.0,9.7,9.0,8.3,7.6,6.9,6.2,5.6,5.0,4.5,4.0,3.6,3.2,2.9,2.6,2.3,2.7,2.0,1.9,1.9,1.8
+496,Mongolia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",21.0,20.0,19.0,18.0,18.0,17.0,16.0,15.0,15.0,14.0,14.0,13.0,12.0,12.0,11.0,11.0,11.0,10.0,10.0,9.0,9.9,9.8,9.6,9.5
+499,Montenegro,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , ,0.6,0.9,1.3,0.6,0.2,0.2,0.2,0.2,0.2
+499,Montenegro,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , ,0.5,0.9,1.2,0.5,0.2,0.1,0.1,0.1,0.1
+499,Montenegro,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , ,0.6,1.0,1.4,0.6,0.2,0.2,0.2,0.2,0.2
+500,Montserrat,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.0,9.3,0.0,0.0,11.0,11.0,12.0,32.0,20.0,21.0,23.0,24.0,23.0,22.0,22.0,22.0,21.0,21.0,21.0,21.0,21.0,21.0,21.0
+500,Montserrat,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,9.3,0.0,0.0,10.0,11.0,12.0,30.0,18.0,21.0,23.0,23.0,23.0,22.0,21.0,21.0,21.0,21.0,21.0,21.0,21.0,21.0,21.0
+500,Montserrat,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.0,9.3,0.0,0.0,11.0,11.0,12.0,33.0,21.0,22.0,24.0,24.0,24.0,23.0,22.0,22.0,21.0,21.0,21.0,22.0,22.0,22.0,22.0
+504,Morocco,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,10.0,9.5,8.6,8.6,8.6
+504,Morocco,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.0,0.0,0.0,0.0,0.0
+504,Morocco,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,52.0,47.0,43.0,39.0,39.0,39.0
+508,Mozambique,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",118.0,122.0,124.0,125.0,124.0,122.0,118.0,112.0,106.0,99.0,92.0,85.0,79.0,75.0,71.0,69.0,67.0,66.0,66.0,65.0,64.0,65.0,66.0,69.0
+508,Mozambique,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",39.0,56.0,64.0,71.0,62.0,60.0,68.0,71.0,69.0,62.0,58.0,54.0,52.0,49.0,48.0,44.0,43.0,44.0,45.0,45.0,44.0,43.0,39.0,36.0
+508,Mozambique,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",237.0,215.0,203.0,186.0,190.0,179.0,164.0,145.0,134.0,130.0,119.0,106.0,96.0,90.0,87.0,84.0,83.0,84.0,86.0,86.0,86.0,89.0,91.0,101.0
+104,Myanmar,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",154.0,154.0,154.0,155.0,155.0,154.0,153.0,151.0,148.0,143.0,135.0,126.0,115.0,103.0,92.0,82.0,73.0,67.0,61.0,57.0,54.0,52.0,50.0,49.0
+104,Myanmar,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",106.0,108.0,108.0,110.0,111.0,112.0,113.0,113.0,110.0,105.0,99.0,91.0,82.0,73.0,64.0,55.0,49.0,45.0,41.0,38.0,36.0,34.0,31.0,29.0
+104,Myanmar,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",193.0,187.0,182.0,178.0,178.0,179.0,176.0,172.0,173.0,169.0,159.0,148.0,136.0,123.0,110.0,98.0,90.0,85.0,81.0,78.0,75.0,72.0,70.0,71.0
+516,Namibia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",116.0,92.0,68.0,53.0,52.0,67.0,98.0,132.0,161.0,180.0,187.0,185.0,178.0,169.0,159.0,147.0,133.0,116.0,93.0,73.0,58.0,53.0,55.0,57.0
+516,Namibia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",67.0,54.0,39.0,35.0,38.0,53.0,81.0,112.0,140.0,167.0,37.0,15.0,2.9,2.4,11.0,20.0,128.0,105.0,81.0,59.0,37.0,28.0,24.0,20.0
+516,Namibia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",134.0,107.0,83.0,73.0,79.0,100.0,138.0,189.0,247.0,299.0,337.0,354.0,352.0,335.0,306.0,274.0,241.0,203.0,161.0,122.0,90.0,69.0,62.0,58.0
+520,Nauru,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.6,5.9,5.5,5.0,4.6,4.2,3.6,2.7,1.3,0.8,6.6,1.2,5.8,1.7,2.2,27.0,33.0,1.9,2.3,1.7,1.6,5.4,6.6,6.7
+520,Nauru,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.4,2.2,2.2,2.2,2.1,2.0,1.7,1.2,0.4,0.2,3.9,0.3,2.7,0.3,0.4,18.0,22.0,0.4,0.7,0.3,0.3,2.5,3.5,3.7
+520,Nauru,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",13.0,12.0,10.0,9.2,8.1,7.3,6.2,5.0,3.0,2.0,10.0,2.9,10.0,4.2,5.8,38.0,45.0,4.6,5.0,4.2,3.9,9.8,11.0,11.0
+524,Nepal,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",52.0,48.0,44.0,40.0,36.0,33.0,30.0,27.0,24.0,22.0,20.0,19.0,18.0,18.0,18.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0
+524,Nepal,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",32.0,31.0,30.0,27.0,24.0,22.0,21.0,19.0,17.0,14.0,13.0,12.0,11.0,11.0,10.0,9.8,10.0,10.0,11.0,10.0,10.0,10.0,9.0,7.4
+524,Nepal,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",70.0,63.0,56.0,49.0,45.0,42.0,38.0,33.0,32.0,30.0,28.0,27.0,25.0,24.0,24.0,24.0,24.0,25.0,26.0,26.0,27.0,27.0,26.0,27.0
+528,Netherlands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.2,0.2,0.2,0.4,0.3,0.3,0.2,0.3,0.2,0.3,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.1,0.1,0.1
+528,Netherlands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.2,0.2,0.2,0.4,0.3,0.3,0.2,0.3,0.2,0.3,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.1,0.1,0.1
+528,Netherlands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.2,0.2,0.2,0.4,0.3,0.3,0.2,0.3,0.2,0.3,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.1,0.1,0.1
+530,Netherlands Antilles,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.6,0.6,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6, , , , 
+530,Netherlands Antilles,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.6,0.6,0.5,0.5,0.5,0.5,0.5,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6, , , , 
+530,Netherlands Antilles,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6, , , , 
+540,New Caledonia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.6,8.9,11.0,2.5,2.3,2.5,6.8,3.8,5.2,3.3,8.0,1.2,3.1,0.8,4.1,1.4,2.3,1.8,2.6,3.5,2.5,3.0,0.8,1.1
+540,New Caledonia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.9,4.0,5.7,0.5,0.5,0.8,3.4,1.4,2.5,1.2,4.8,0.2,1.3,0.2,2.3,0.5,1.0,0.7,1.3,2.0,1.2,1.7,0.2,0.3
+540,New Caledonia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",15.0,16.0,18.0,6.4,5.8,5.2,11.0,7.5,9.1,6.5,12.0,3.0,5.7,1.9,6.5,3.0,4.2,3.6,4.5,5.5,4.2,4.9,1.6,2.3
+554,New Zealand,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.6,0.7,0.5,0.3,0.5,0.6,0.4,0.2,0.5,0.3,0.3,0.1,0.2,0.3,0.3,0.2,0.3,0.2,0.2,0.2,0.3,0.2,0.2,0.1
+554,New Zealand,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.6,0.5,0.3,0.5,0.6,0.4,0.2,0.5,0.3,0.3,0.1,0.2,0.3,0.3,0.2,0.3,0.2,0.2,0.2,0.3,0.2,0.2,0.1
+554,New Zealand,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.6,0.7,0.5,0.3,0.5,0.6,0.4,0.2,0.5,0.3,0.3,0.1,0.2,0.3,0.3,0.2,0.3,0.2,0.2,0.2,0.3,0.2,0.2,0.1
+558,Nicaragua,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",11.0,12.0,9.4,9.9,9.2,8.9,8.5,8.3,7.4,8.6,6.4,6.2,5.0,5.8,5.3,5.4,4.3,4.1,3.3,3.3,4.6,3.6,2.9,2.7
+558,Nicaragua,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.4,6.7,5.6,6.2,5.7,5.6,5.6,5.7,5.3,6.1,4.5,4.4,3.6,4.3,3.9,4.1,3.2,3.1,2.5,2.5,3.5,2.8,2.2,2.0
+558,Nicaragua,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",16.0,18.0,14.0,15.0,14.0,13.0,12.0,11.0,9.8,12.0,8.7,8.3,6.6,7.6,6.9,6.9,5.6,5.2,4.2,4.2,5.8,4.6,3.8,3.5
+562,Niger,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",132.0,129.0,123.0,116.0,108.0,99.0,91.0,82.0,74.0,66.0,59.0,52.0,47.0,42.0,38.0,34.0,30.0,27.0,25.0,23.0,21.0,19.0,18.0,17.0
+562,Niger,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",93.0,91.0,87.0,83.0,79.0,73.0,68.0,62.0,55.0,48.0,43.0,38.0,33.0,30.0,26.0,23.0,21.0,19.0,17.0,16.0,14.0,13.0,12.0,11.0
+562,Niger,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",164.0,156.0,146.0,134.0,124.0,115.0,104.0,94.0,86.0,79.0,69.0,62.0,55.0,49.0,44.0,40.0,36.0,34.0,32.0,30.0,28.0,26.0,24.0,24.0
+566,Nigeria,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",99.0,100.0,101.0,101.0,102.0,103.0,103.0,104.0,104.0,103.0,103.0,102.0,101.0,100.0,98.0,97.0,96.0,95.0,94.0,94.0,93.0,93.0,93.0,94.0
+566,Nigeria,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",54.0,61.0,67.0,69.0,67.0,69.0,69.0,70.0,70.0,67.0,66.0,66.0,64.0,62.0,62.0,59.0,60.0,61.0,60.0,57.0,55.0,56.0,45.0,39.0
+566,Nigeria,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",149.0,143.0,137.0,134.0,143.0,143.0,138.0,129.0,132.0,138.0,138.0,133.0,126.0,123.0,124.0,126.0,125.0,129.0,130.0,132.0,136.0,144.0,141.0,156.0
+570,Niue,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.2,5.2,27.0,4.9,28.0,1.3,30.0,1.1,1.0,11.0,1.2,1.3,94.0,1.0,0.9,0.7,0.5,0.3,0.3,0.2,0.2,31.0,0.4,0.5
+570,Niue,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.2,2.4,18.0,2.2,19.0,0.3,21.0,0.2,0.2,6.7,0.2,0.3,66.0,0.2,0.2,0.1,0.1,0.1,0.1,0.0,0.0,22.0,0.1,0.1
+570,Niue,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.9,9.0,36.0,8.8,38.0,3.1,41.0,2.7,2.5,15.0,3.0,3.1,125.0,2.5,2.2,1.7,1.1,0.8,0.6,0.5,0.5,41.0,0.9,1.3
+580,Northern Mariana Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.9,11.0,28.0,12.0,3.4,3.3,3.4,28.0,29.0,5.6,13.0,4.7,4.1,3.0,9.0,15.0,12.0,9.1,2.0,8.4,4.4,6.2,5.6,6.4
+580,Northern Mariana Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.8,4.9,18.0,5.1,0.8,0.7,0.7,17.0,18.0,1.5,6.5,1.4,1.2,0.9,4.1,8.5,6.9,4.5,0.4,4.1,1.4,2.5,2.1,2.8
+580,Northern Mariana Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.4,19.0,41.0,21.0,8.0,8.1,8.2,42.0,43.0,13.0,23.0,9.8,8.6,6.6,16.0,22.0,19.0,15.0,4.8,14.0,9.0,12.0,11.0,12.0
+578,Norway,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.4,0.4,0.2,0.3,0.4,0.5,0.3,0.3,0.3,0.2,0.2,0.4,0.2,0.3,0.2,0.2,0.1,0.1,0.1,0.2,0.2,0.1,0.1,0.1
+578,Norway,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.4,0.4,0.2,0.3,0.4,0.5,0.3,0.3,0.3,0.2,0.2,0.4,0.2,0.3,0.2,0.2,0.1,0.1,0.1,0.2,0.2,0.1,0.1,0.1
+578,Norway,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.4,0.4,0.3,0.3,0.4,0.5,0.3,0.3,0.3,0.2,0.2,0.4,0.2,0.3,0.2,0.2,0.1,0.1,0.1,0.2,0.2,0.1,0.1,0.1
+512,Oman,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.5,2.4,2.2,2.1,1.9,1.8,1.7,1.6,1.6,1.5,1.5,1.4,1.3,1.3,1.2,1.1,1.0,1.0,0.9,0.8,0.8,0.8,0.7,0.7
+512,Oman,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+512,Oman,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",8.7,8.6,8.4,8.3,8.3,8.2,8.2,8.2,8.2,8.2,8.2,8.1,8.1,8.0,7.9,7.8,7.8,7.7,7.6,6.3,7.4,7.3,7.1,6.9
+586,Pakistan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,70.0,70.0,70.0,69.0,64.0,59.0,51.0,44.0,38.0,33.0,30.0,28.0,27.0
+586,Pakistan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",36.0,38.0,40.0,41.0,41.0,42.0,42.0,43.0,43.0,43.0,44.0,45.0,46.0,47.0,46.0,40.0,36.0,32.0,25.0,16.0,10.0,7.6,6.3,6.4
+586,Pakistan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",116.0,111.0,108.0,106.0,105.0,105.0,104.0,103.0,102.0,102.0,101.0,99.0,99.0,97.0,94.0,95.0,87.0,76.0,71.0,70.0,72.0,69.0,66.0,63.0
+585,Palau,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",10.0,2.0,2.6,35.0,75.0,6.3,3.7,3.6,12.0,41.0,21.0,7.0,2.3,1.8,1.6,4.2,7.8,4.8,13.0,24.0,24.0,7.5,1.5,1.7
+585,Palau,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.3,0.4,0.5,23.0,52.0,1.7,0.7,0.7,5.4,27.0,12.0,2.5,0.5,0.4,0.3,1.5,4.1,1.8,8.2,16.0,16.0,3.8,0.3,0.5
+585,Palau,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",16.0,4.9,6.3,50.0,103.0,14.0,8.9,8.7,23.0,59.0,31.0,14.0,5.4,4.4,3.8,8.4,13.0,9.5,20.0,34.0,34.0,13.0,3.7,3.8
+591,Panama,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",8.3,8.1,8.0,7.8,7.7,7.5,7.7,6.3,7.6,7.7,6.6,6.2,5.9,6.6,5.5,6.6,5.1,5.4,6.2,6.9,5.0,4.2,4.9,4.8
+591,Panama,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.4,6.3,6.2,6.2,6.1,6.0,6.2,5.2,6.3,6.7,5.9,5.5,5.2,5.9,4.9,6.3,4.7,5.1,5.8,6.4,4.9,4.2,4.7,4.6
+591,Panama,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",10.0,10.0,9.9,9.6,9.4,9.1,9.4,7.5,9.0,8.7,7.4,7.0,6.6,7.4,6.0,6.9,5.5,5.8,6.6,7.4,5.0,4.3,5.1,4.9
+598,Papua New Guinea,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",105.0,101.0,96.0,91.0,86.0,81.0,76.0,71.0,67.0,64.0,62.0,62.0,62.0,62.0,63.0,63.0,62.0,61.0,59.0,56.0,51.0,46.0,40.0,33.0
+598,Papua New Guinea,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",70.0,69.0,66.0,63.0,60.0,57.0,55.0,52.0,47.0,43.0,42.0,41.0,40.0,39.0,38.0,38.0,40.0,41.0,40.0,36.0,31.0,27.0,17.0,8.5
+598,Papua New Guinea,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",136.0,126.0,115.0,108.0,107.0,103.0,95.0,86.0,87.0,86.0,85.0,83.0,80.0,79.0,80.0,83.0,83.0,84.0,84.0,82.0,78.0,75.0,71.0,75.0
+600,Paraguay,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.6,3.6,3.7,3.8,3.8,4.8,5.3,5.8,4.7,5.2,4.3,3.9,3.8,4.1,4.7,4.7,3.9,3.0,3.6,3.0,3.8,2.7,2.9,2.9
+600,Paraguay,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.5,2.8,2.8,2.9,3.0,3.6,4.1,4.1,3.4,3.7,3.1,2.8,2.7,2.9,3.6,3.7,3.1,2.4,2.9,2.4,3.1,2.6,2.6,2.6
+600,Paraguay,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.9,4.6,4.7,4.7,4.8,6.1,6.5,7.9,6.3,6.9,5.8,5.1,5.2,5.5,5.9,5.9,4.7,3.7,4.4,3.6,4.6,2.9,3.2,3.2
+604,Peru,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",34.0,29.0,30.0,28.0,26.0,26.0,21.0,19.0,17.0,12.0,14.0,12.0,11.0,11.0,9.8,9.7,8.6,7.9,7.8,8.5,8.5,8.0,7.8,7.7
+604,Peru,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",11.0,8.4,13.0,12.0,11.0,14.0,12.0,10.0,10.0,7.3,8.9,8.0,7.6,7.7,7.5,7.4,6.4,6.0,6.0,6.6,6.5,6.1,5.9,5.7
+604,Peru,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",70.0,61.0,53.0,51.0,48.0,41.0,32.0,29.0,26.0,17.0,21.0,16.0,15.0,14.0,12.0,12.0,11.0,10.0,9.8,11.0,11.0,10.0,10.0,10.0
+608,Philippines,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",55.0,54.0,52.0,52.0,51.0,50.0,48.0,42.0,43.0,45.0,40.0,39.0,40.0,38.0,36.0,35.0,34.0,33.0,31.0,31.0,30.0,29.0,28.0,27.0
+608,Philippines,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",45.0,43.0,41.0,42.0,45.0,43.0,42.0,39.0,40.0,41.0,38.0,37.0,37.0,35.0,34.0,32.0,31.0,30.0,29.0,29.0,28.0,27.0,26.0,25.0
+608,Philippines,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",67.0,66.0,63.0,62.0,59.0,58.0,54.0,46.0,45.0,49.0,43.0,42.0,43.0,41.0,39.0,38.0,36.0,35.0,34.0,33.0,32.0,31.0,30.0,29.0
+616,Poland,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.8,3.8,3.8,3.7,3.3,3.2,2.9,2.9,2.9,2.9,2.9,2.8,2.5,2.5,2.3,2.3,2.1,2.1,2.3,2.1,1.6,1.8,1.8,1.7
+616,Poland,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.6,3.7,3.7,3.5,3.2,3.0,2.8,2.8,2.8,2.8,2.8,2.7,2.4,2.4,2.2,2.2,2.0,2.0,2.2,2.0,1.6,1.7,1.7,1.6
+616,Poland,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",3.9,4.0,4.0,3.8,3.5,3.3,3.1,3.1,3.1,3.1,3.0,3.0,2.6,2.6,2.4,2.3,2.1,2.2,2.3,2.1,1.7,1.8,1.8,1.7
+620,Portugal,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.1,3.1,2.4,3.7,2.7,3.5,3.3,3.6,3.9,3.2,2.9,2.6,2.5,2.2,2.0,1.8,1.6,1.5,1.5,1.5,1.2,1.4,1.4,1.3
+620,Portugal,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.9,2.9,2.2,3.5,2.6,3.3,3.1,3.4,3.6,3.0,2.7,2.5,2.4,2.1,1.9,1.7,1.5,1.4,1.4,1.4,1.2,1.3,1.3,1.3
+620,Portugal,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",3.3,3.3,2.5,3.9,2.9,3.7,3.5,3.9,4.2,3.4,3.1,2.8,2.7,2.4,2.1,1.9,1.7,1.5,1.6,1.6,1.3,1.5,1.4,1.4
+630,Puerto Rico,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.0,1.6,1.6,2.1,2.1,2.2,1.5,1.4,1.0,0.8,0.5,0.8,0.6,0.4,0.4,0.5,0.4,0.4,0.4,0.2,0.3,0.3,0.3,0.3
+630,Puerto Rico,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.0,1.6,1.6,2.1,2.1,2.2,1.5,1.4,1.0,0.8,0.5,0.8,0.6,0.4,0.4,0.5,0.4,0.4,0.4,0.2,0.3,0.3,0.3,0.3
+630,Puerto Rico,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.0,1.6,1.6,2.1,2.1,2.2,1.5,1.4,1.0,0.8,0.5,0.8,0.6,0.4,0.4,0.5,0.4,0.4,0.4,0.2,0.3,0.3,0.3,0.3
+634,Qatar,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.7,5.2,4.8,4.3,3.8,3.3,2.4,1.8,1.3,1.0,0.7,0.5,0.4,0.3,0.2,0.2,0.1,0.1,0.6,0.2,0.1,0.2,0.1,0.1
+634,Qatar,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.6,5.1,4.6,4.1,3.6,3.1,2.3,1.6,1.2,0.9,0.6,0.5,0.3,0.2,0.2,0.1,0.1,0.1,0.5,0.2,0.1,0.1,0.1,0.1
+634,Qatar,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.9,5.4,4.9,4.4,3.9,3.4,2.5,1.9,1.4,1.0,0.8,0.6,0.4,0.3,0.3,0.2,0.2,0.1,0.8,0.3,0.1,0.3,0.2,0.2
+498,Republic of Moldova,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.6,6.9,7.2,7.9,12.0,11.0,13.0,12.0,13.0,16.0,17.0,15.0,16.0,16.0,19.0,20.0,19.0,19.0,17.0,17.0,16.0,14.0,14.0,14.0
+498,Republic of Moldova,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",5.2,6.3,6.5,7.1,11.0,10.0,13.0,10.0,11.0,14.0,16.0,14.0,15.0,15.0,17.0,19.0,18.0,18.0,16.0,17.0,16.0,13.0,13.0,13.0
+498,Republic of Moldova,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.1,7.5,7.9,8.7,14.0,12.0,14.0,13.0,14.0,17.0,19.0,17.0,18.0,18.0,20.0,21.0,20.0,19.0,17.0,18.0,17.0,15.0,14.0,14.0
+638,Reunion,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+638,Reunion,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+638,Reunion,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+642,Romania,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.9,7.3,8.4,10.0,10.0,11.0,11.0,12.0,11.0,9.7,9.5,11.0,11.0,10.0,9.4,8.1,7.7,7.3,7.5,7.0,6.9,6.0,5.8,5.4
+642,Romania,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.9,7.3,8.4,10.0,10.0,11.0,11.0,12.0,11.0,9.6,9.5,11.0,11.0,10.0,9.4,8.1,7.7,7.3,7.5,7.0,6.8,5.9,5.8,5.4
+642,Romania,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.9,7.3,8.4,10.0,10.0,11.0,12.0,12.0,11.0,9.7,9.5,11.0,11.0,10.0,9.5,8.1,7.8,7.3,7.5,7.1,6.9,6.0,5.8,5.5
+643,Russian Federation,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",8.2,8.5,9.8,13.0,15.0,16.0,18.0,18.0,16.0,21.0,21.0,21.0,23.0,23.0,22.0,23.0,21.0,19.0,19.0,18.0,16.0,15.0,13.0,12.0
+643,Russian Federation,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",8.1,8.3,9.6,13.0,15.0,16.0,17.0,17.0,16.0,20.0,21.0,20.0,22.0,22.0,22.0,23.0,20.0,19.0,18.0,17.0,16.0,15.0,13.0,12.0
+643,Russian Federation,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",8.3,8.6,9.9,13.0,16.0,17.0,18.0,18.0,17.0,21.0,22.0,21.0,23.0,23.0,23.0,24.0,21.0,19.0,19.0,18.0,17.0,15.0,14.0,13.0
+646,Rwanda,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.1,5.0,4.8,4.5,4.4,4.6,5.3,6.0,6.8,7.3,7.7,7.9,7.8,7.7,7.5,7.6,8.1,8.3,8.2,8.2,8.1,7.9,7.3,6.9
+646,Rwanda,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.4,2.6,2.6,2.5,2.6,2.8,3.3,3.6,3.9,4.3,4.5,4.6,4.6,4.7,4.7,4.9,5.1,5.1,4.9,4.9,4.9,4.8,4.5,4.5
+646,Rwanda,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",6.9,7.4,7.7,8.0,8.3,8.7,8.9,9.1,9.2,9.4,9.7,9.9,10.0,10.0,10.0,10.0,11.0,11.0,11.0,10.0,10.0,10.0,10.0,10.0
+654,Saint Helena,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+654,Saint Helena,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+654,Saint Helena,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+659,Saint Kitts and Nevis,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.0,0.0,2.8,5.3,2.4,4.9,12.0,4.6,2.3,2.4,2.4,2.8,3.0,2.1,2.2,4.2,2.2,2.4,2.4,2.3,1.9,2.9,2.9
+659,Saint Kitts and Nevis,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,0.0,2.6,5.0,2.4,4.7,12.0,4.5,2.3,2.3,2.3,2.4,2.4,2.1,2.1,4.1,2.1,2.1,2.1,2.1,1.9,2.8,2.8
+659,Saint Kitts and Nevis,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.0,0.0,3.1,5.7,2.4,5.0,12.0,4.6,2.3,2.5,2.5,3.2,3.7,2.1,2.3,4.3,2.4,2.7,2.7,2.6,1.9,3.1,3.1
+662,Saint Lucia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.0,1.7,9.0,5.0,4.2,8.3,5.0,0.9,3.3,2.4,0.8,0.7,0.7,1.3,4.0,3.9,2.2,2.2,2.1,1.1,0.6,0.6,0.6,1.2
+662,Saint Lucia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.8,1.6,7.8,4.0,3.2,6.3,3.9,0.7,2.9,2.1,0.7,0.7,0.7,1.3,3.8,3.8,2.0,1.9,1.9,1.1,0.6,0.6,0.6,1.2
+662,Saint Lucia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.2,1.9,10.0,6.1,5.3,11.0,6.2,1.0,3.7,2.7,0.9,0.7,0.8,1.4,4.1,4.0,2.4,2.4,2.4,1.2,0.6,0.6,0.6,1.2
+666,Saint Pierre and Miquelon,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+666,Saint Pierre and Miquelon,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+666,Saint Pierre and Miquelon,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+670,Saint Vincent and the Grenadines,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.0,1.6,2.2,2.7,3.3,3.8,5.7,0.0,2.8,0.9,3.3,2.0,1.0,5.9,5.9,0.9,2.8,2.8,0.9,1.0,5.7,4.8,3.8,2.8
+670,Saint Vincent and the Grenadines,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.0,1.5,2.1,2.7,3.2,3.8,5.6,0.0,2.8,0.9,3.0,1.9,1.0,5.7,5.7,0.9,2.8,2.8,0.9,0.9,5.6,4.7,3.7,2.7
+670,Saint Vincent and the Grenadines,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.1,1.7,2.2,2.8,3.4,3.9,5.7,0.0,2.8,1.0,3.6,2.1,1.0,6.1,6.1,0.9,2.8,2.8,0.9,1.0,5.8,4.9,3.9,2.9
+882,Samoa,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.8,4.7,4.5,4.4,4.2,4.1,3.9,3.8,3.6,3.3,3.0,2.6,2.3,2.0,1.9,2.1,2.5,2.8,3.0,3.2,3.3,3.4,3.4,3.2
+882,Samoa,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.1,2.0,2.6,1.6,1.7,1.6,2.0,1.9,2.1,1.5,0.9,1.3,0.8,0.7,0.5,0.9,1.2,1.4,1.6,1.7,1.8,1.9,1.9,1.7
+882,Samoa,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",8.8,8.7,7.1,8.8,8.3,8.0,6.7,6.6,5.7,6.0,6.5,4.5,4.9,4.3,4.4,4.1,4.5,4.8,5.0,5.2,5.3,5.4,5.5,5.2
+674,San Marino,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+674,San Marino,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+674,San Marino,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+678,Sao Tome and Principe,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",37.0,36.0,34.0,33.0,31.0,29.0,25.0,22.0,18.0,14.0,10.0,7.7,5.6,4.5,4.3,5.2,7.1,9.5,12.0,13.0,14.0,13.0,12.0,9.3
+678,Sao Tome and Principe,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",17.0,16.0,12.0,11.0,9.6,8.8,8.2,7.7,6.8,6.0,4.6,3.6,2.8,2.4,3.0,3.6,4.2,5.1,5.8,6.3,6.4,6.1,5.4,4.6
+678,Sao Tome and Principe,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",51.0,50.0,50.0,49.0,48.0,46.0,44.0,39.0,34.0,30.0,26.0,22.0,17.0,14.0,12.0,12.0,13.0,16.0,19.0,22.0,23.0,22.0,20.0,20.0
+682,Saudi Arabia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.4,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.4,3.4,3.4,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3
+682,Saudi Arabia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.6,0.3,0.3,0.3,0.3
+682,Saudi Arabia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.9,9.8,9.8,9.7,9.7,9.7,9.7,9.8,9.8,9.9,9.9,9.9,9.8,9.8,9.7,9.7,9.8,9.8,9.8,8.3,9.8,9.8,9.7,9.7
+686,Senegal,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",26.0,25.0,26.0,26.0,27.0,29.0,30.0,30.0,31.0,31.0,30.0,29.0,28.0,27.0,26.0,24.0,24.0,23.0,22.0,22.0,21.0,21.0,21.0,21.0
+686,Senegal,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",17.0,17.0,17.0,18.0,19.0,20.0,21.0,22.0,22.0,22.0,21.0,21.0,20.0,18.0,17.0,16.0,16.0,15.0,15.0,15.0,14.0,14.0,13.0,12.0
+686,Senegal,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",35.0,33.0,32.0,32.0,34.0,35.0,35.0,36.0,39.0,39.0,38.0,37.0,35.0,34.0,32.0,31.0,30.0,30.0,30.0,30.0,30.0,29.0,29.0,29.0
+688,Serbia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , ,2.8,2.3,2.1,1.7,1.7,1.6,1.5,1.6,1.6
+688,Serbia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , ,2.5,2.0,1.9,1.5,1.5,1.5,1.4,1.4,1.4
+688,Serbia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , ,3.1,2.5,2.3,1.9,1.8,1.8,1.6,1.7,1.7
+891,Serbia and Montenegro,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.8,3.8,3.8,3.8,3.8,3.8,3.8,3.8,3.7,3.8,3.8,2.6,2.7,2.7,2.7, , , , , , , , , 
+891,Serbia and Montenegro,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.7,3.7,3.7,3.7,3.7,3.7,3.7,3.7,3.6,3.7,3.6,2.5,2.6,2.6,2.6, , , , , , , , , 
+891,Serbia and Montenegro,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.9,4.0,4.0,2.8,2.9,2.9,2.9, , , , , , , , , 
+690,Seychelles,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,2.6,5.1,0.0,0.0,2.5,1.2,1.2,2.3,2.3,0.0,1.1,0.0,1.5
+690,Seychelles,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,2.5,5.0,0.0,0.0,2.4,1.2,1.2,2.3,2.3,0.0,1.1,0.0,1.5
+690,Seychelles,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,2.7,5.2,0.0,0.0,2.7,1.3,1.3,2.3,2.4,0.0,1.1,0.0,1.6
+694,Sierra Leone,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",97.0,95.0,95.0,94.0,94.0,93.0,93.0,93.0,92.0,91.0,90.0,88.0,85.0,81.0,77.0,72.0,67.0,61.0,56.0,51.0,47.0,45.0,43.0,43.0
+694,Sierra Leone,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",64.0,66.0,66.0,65.0,65.0,66.0,68.0,70.0,68.0,66.0,64.0,62.0,58.0,53.0,49.0,45.0,43.0,40.0,35.0,30.0,26.0,25.0,17.0,14.0
+694,Sierra Leone,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",126.0,120.0,115.0,112.0,117.0,119.0,116.0,110.0,115.0,118.0,117.0,112.0,105.0,99.0,95.0,93.0,87.0,84.0,79.0,75.0,73.0,76.0,74.0,82.0
+702,Singapore,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.0,3.2,3.0,3.6,3.2,3.6,4.0,3.5,4.0,3.1,3.2,2.9,2.6,2.3,2.2,1.8,1.7,2.2,2.1,1.8,1.9,1.7,1.7,1.7
+702,Singapore,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.8,3.2,2.9,3.4,3.0,3.4,3.7,3.2,3.6,2.8,2.8,2.6,2.2,2.0,1.9,1.6,1.5,1.9,1.8,1.5,1.6,1.4,1.5,1.5
+702,Singapore,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.1,3.3,3.1,3.7,3.3,3.8,4.3,3.8,4.4,3.5,3.6,3.3,2.9,2.6,2.6,2.1,1.9,2.5,2.4,2.1,2.3,2.0,2.0,2.0
+703,Slovakia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.1,2.1,2.1,1.7,2.1,1.6,1.4,1.1,0.9,0.9,1.0,1.0,1.2,1.2,1.0,0.9,0.9,0.7,0.8,0.8,0.6,0.6,0.6,0.6
+703,Slovakia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.0,2.0,2.1,1.7,2.0,1.6,1.4,1.1,0.9,0.9,1.0,1.0,1.2,1.2,1.0,0.9,0.9,0.7,0.8,0.8,0.6,0.6,0.6,0.6
+703,Slovakia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.1,2.1,2.1,1.7,2.1,1.6,1.4,1.1,0.9,0.9,1.0,1.0,1.2,1.2,1.0,0.9,0.9,0.7,0.8,0.8,0.6,0.7,0.7,0.7
+705,Slovenia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.6,3.0,3.7,2.2,1.4,1.6,1.5,1.4,1.2,1.4,0.9,1.3,1.0,1.1,0.6,0.9,0.9,1.4,1.4,1.2,0.9,1.0,1.0,1.0
+705,Slovenia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.6,2.9,3.6,2.1,1.4,1.6,1.4,1.4,1.2,1.4,0.9,1.3,1.0,1.1,0.6,0.9,0.9,1.3,1.4,1.2,0.9,1.0,1.0,1.0
+705,Slovenia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.6,3.0,3.7,2.2,1.5,1.6,1.5,1.4,1.3,1.5,0.9,1.3,1.1,1.1,0.6,0.9,0.9,1.4,1.4,1.2,1.0,1.0,1.0,1.0
+90,Solomon Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",87.0,83.0,79.0,74.0,71.0,67.0,64.0,61.0,58.0,54.0,51.0,48.0,44.0,39.0,35.0,31.0,28.0,25.0,22.0,20.0,18.0,16.0,15.0,14.0
+90,Solomon Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",38.0,40.0,41.0,42.0,43.0,43.0,41.0,39.0,37.0,35.0,33.0,31.0,28.0,24.0,22.0,19.0,16.0,14.0,12.0,11.0,9.6,8.6,7.9,7.5
+90,Solomon Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",160.0,145.0,131.0,118.0,107.0,97.0,92.0,88.0,83.0,79.0,74.0,69.0,64.0,58.0,53.0,48.0,43.0,39.0,36.0,32.0,29.0,27.0,25.0,24.0
+706,Somalia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",117.0,114.0,112.0,110.0,107.0,104.0,101.0,97.0,94.0,90.0,86.0,81.0,77.0,73.0,70.0,68.0,67.0,68.0,69.0,71.0,72.0,73.0,74.0,74.0
+706,Somalia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",72.0,76.0,78.0,78.0,75.0,74.0,73.0,72.0,69.0,65.0,61.0,58.0,55.0,51.0,48.0,47.0,46.0,47.0,48.0,50.0,50.0,50.0,50.0,48.0
+706,Somalia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",156.0,148.0,140.0,133.0,125.0,120.0,117.0,115.0,113.0,109.0,103.0,98.0,93.0,88.0,84.0,83.0,83.0,85.0,89.0,92.0,94.0,94.0,94.0,95.0
+710,South Africa,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",51.0,48.0,42.0,36.0,31.0,30.0,33.0,39.0,45.0,51.0,55.0,58.0,61.0,62.0,64.0,64.0,64.0,63.0,59.0,53.0,48.0,46.0,49.0,48.0
+710,South Africa,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",33.0,29.0,25.0,21.0,19.0,20.0,24.0,27.0,32.0,35.0,38.0,40.0,41.0,42.0,42.0,42.0,41.0,40.0,38.0,34.0,30.0,29.0,30.0,28.0
+710,South Africa,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",71.0,63.0,54.0,48.0,45.0,43.0,47.0,56.0,63.0,68.0,71.0,73.0,75.0,75.0,77.0,79.0,81.0,81.0,79.0,73.0,67.0,66.0,72.0,73.0
+728,South Sudan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , ,35.0,32.0,40.0
+728,South Sudan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , ,22.0,19.0,26.0
+728,South Sudan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , ,52.0,48.0,58.0
+724,Spain,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.3,2.1,2.0,1.9,1.7,1.6,1.6,1.4,1.2,1.3,1.0,1.0,0.9,0.9,0.8,0.8,0.7,0.7,0.6,0.7,0.7,0.5,0.5,0.5
+724,Spain,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.2,2.1,2.0,1.9,1.6,1.5,1.5,1.3,1.2,1.3,1.0,1.0,0.9,0.9,0.8,0.8,0.7,0.7,0.6,0.6,0.7,0.5,0.5,0.5
+724,Spain,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.3,2.2,2.1,1.9,1.7,1.6,1.6,1.4,1.2,1.3,1.0,1.0,1.0,0.9,0.8,0.8,0.7,0.7,0.6,0.7,0.7,0.5,0.5,0.5
+144,Sri Lanka,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.6,7.5,8.4,8.6,8.8,9.0,8.9,10.0,9.6,8.7,10.0,9.7,9.2,9.5,8.1,6.9,5.9,5.9,5.9,5.9,5.9,5.9,5.9,5.9
+144,Sri Lanka,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.5,4.3,4.7,4.9,5.1,5.3,4.6,5.8,5.5,5.0,6.0,6.1,5.8,6.2,5.7,5.2,4.7,4.7,4.7,4.7,4.7,4.7,4.7,4.7
+144,Sri Lanka,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",12.0,12.0,13.0,13.0,13.0,14.0,15.0,16.0,15.0,13.0,15.0,14.0,13.0,13.0,11.0,8.9,7.3,7.3,7.3,7.3,7.3,7.3,7.3,7.3
+275,State of Palestine,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.5,0.4,0.6,0.6,0.9,1.1,0.8,1.2,0.9,0.6,0.6,0.3,0.5,0.4,0.2,0.4,0.3,0.4,0.2,0.2,0.2,0.2,0.2,0.2
+275,State of Palestine,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.4,0.5,0.6,0.9,1.0,0.8,1.1,0.8,0.5,0.6,0.3,0.4,0.4,0.2,0.4,0.3,0.4,0.2,0.2,0.2,0.2,0.2,0.2
+275,State of Palestine,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.5,0.4,0.6,0.7,1.0,1.1,0.8,1.2,0.9,0.6,0.6,0.3,0.5,0.4,0.3,0.4,0.3,0.4,0.2,0.2,0.3,0.2,0.2,0.2
+729,Sudan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",53.0,49.0,45.0,42.0,39.0,38.0,36.0,35.0,35.0,34.0,33.0,32.0,31.0,30.0,29.0,29.0,28.0,28.0,27.0,27.0,25.0,30.0,28.0,25.0
+729,Sudan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",38.0,35.0,32.0,29.0,27.0,26.0,25.0,25.0,24.0,24.0,23.0,23.0,22.0,21.0,20.0,20.0,19.0,19.0,18.0,18.0,17.0,20.0,19.0,18.0
+729,Sudan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",63.0,59.0,55.0,52.0,49.0,46.0,44.0,43.0,42.0,42.0,41.0,40.0,39.0,38.0,37.0,36.0,35.0,34.0,33.0,32.0,30.0,37.0,35.0,34.0
+736,Sudan (former),647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+736,Sudan (former),793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+736,Sudan (former),794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+740,Suriname,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.3,3.9,3.1,3.3,3.4,3.6,4.8,1.3,3.2,1.6,1.2,2.3,1.4,2.5,1.3,1.7,1.5,1.5,2.8,2.5,2.2,2.2,2.2,2.2
+740,Suriname,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.3,2.8,1.9,1.9,1.8,1.7,2.9,0.8,2.3,1.3,1.0,1.9,1.2,2.1,1.1,1.5,1.3,1.4,2.7,2.4,2.1,2.1,2.1,2.1
+740,Suriname,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.6,5.2,4.5,5.0,5.5,6.2,7.1,1.9,4.3,2.0,1.5,2.8,1.6,2.9,1.5,1.9,1.7,1.6,3.0,2.6,2.4,2.4,2.4,2.4
+748,Swaziland,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",60.0,52.0,43.0,34.0,29.0,28.0,31.0,35.0,38.0,40.0,39.0,38.0,37.0,35.0,35.0,36.0,39.0,42.0,41.0,42.0,43.0,62.0,80.0,91.0
+748,Swaziland,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",22.0,23.0,23.0,23.0,20.0,21.0,23.0,25.0,26.0,26.0,26.0,25.0,24.0,23.0,22.0,23.0,26.0,28.0,28.0,29.0,29.0,41.0,53.0,59.0
+748,Swaziland,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",94.0,77.0,62.0,49.0,43.0,43.0,47.0,53.0,55.0,52.0,48.0,45.0,44.0,42.0,42.0,45.0,51.0,56.0,57.0,57.0,58.0,82.0,103.0,116.0
+752,Sweden,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.5,0.5,0.5,0.5,0.4,0.3,0.5,0.5,0.4,0.4,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.2,0.2,0.1,0.2,0.1
+752,Sweden,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.5,0.5,0.5,0.4,0.3,0.4,0.5,0.4,0.4,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.2,0.2,0.1,0.2,0.1
+752,Sweden,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.5,0.5,0.5,0.5,0.4,0.3,0.5,0.5,0.4,0.4,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.3,0.2,0.2,0.2,0.1,0.2,0.1
+756,Switzerland,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.3,1.2,1.1,0.8,0.7,0.7,0.6,0.6,0.5,0.4,0.5,0.3,0.4,0.2,0.2,0.3,0.3,0.2,0.3,0.2,0.3,0.2,0.2,0.2
+756,Switzerland,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.3,1.2,1.1,0.8,0.7,0.7,0.6,0.6,0.4,0.4,0.5,0.3,0.3,0.2,0.2,0.3,0.3,0.2,0.3,0.2,0.3,0.2,0.2,0.2
+756,Switzerland,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.3,1.2,1.1,0.8,0.7,0.7,0.6,0.6,0.5,0.4,0.5,0.4,0.4,0.3,0.2,0.3,0.3,0.2,0.3,0.2,0.3,0.2,0.2,0.2
+760,Syrian Arab Republic,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.4,7.0,6.7,6.3,5.8,5.4,4.8,4.2,3.6,3.0,2.4,2.0,1.9,1.8,1.8,1.8,1.7,1.7,1.7,1.8,1.8,1.9,2.0,2.1
+760,Syrian Arab Republic,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.0,2.0,2.0,1.9,2.0,2.1,1.8,1.5,1.4,1.1,0.8,0.6,0.5,0.6,0.6,0.5,0.5,0.5,0.5,0.6,0.6,0.7,0.8,0.9
+760,Syrian Arab Republic,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",17.0,16.0,15.0,14.0,12.0,10.0,9.5,8.6,7.0,5.9,5.2,4.4,4.2,3.9,3.9,3.9,4.0,3.8,3.9,3.8,3.8,3.8,3.8,3.8
+762,Tajikistan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.4,7.4,6.7,8.1,11.0,12.0,15.0,14.0,16.0,15.0,20.0,20.0,17.0,17.0,15.0,14.0,13.0,12.0,11.0,9.9,9.0,8.3,7.6,6.9
+762,Tajikistan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.5,5.3,5.0,6.5,8.1,8.4,9.7,8.7,9.4,9.0,11.0,13.0,12.0,12.0,11.0,11.0,9.7,8.9,8.1,7.4,6.8,6.2,5.7,5.2
+762,Tajikistan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",8.6,9.9,8.6,9.8,14.0,16.0,22.0,21.0,24.0,23.0,31.0,30.0,24.0,23.0,20.0,18.0,16.0,15.0,14.0,13.0,12.0,11.0,9.7,8.9
+764,Thailand,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",19.0,18.0,17.0,15.0,14.0,15.0,17.0,14.0,16.0,21.0,24.0,23.0,23.0,22.0,22.0,18.0,15.0,15.0,14.0,14.0,13.0,13.0,12.0,12.0
+764,Thailand,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",6.3,5.9,5.7,6.1,6.4,7.8,8.5,6.7,7.5,8.7,11.0,11.0,12.0,12.0,10.0,9.4,9.1,8.9,8.6,8.3,8.0,7.8,7.6,7.3
+764,Thailand,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",40.0,36.0,35.0,29.0,24.0,25.0,29.0,23.0,28.0,39.0,43.0,40.0,38.0,35.0,38.0,30.0,23.0,22.0,21.0,20.0,20.0,19.0,19.0,18.0
+807,The former Yugoslav Republic of Macedonia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",5.1,4.9,5.7,7.0,5.8,5.1,6.4,6.4,5.4,5.8,5.1,4.5,3.8,4.1,2.9,3.3,3.1,2.8,2.3,0.9,1.6,1.5,1.5,1.5
+807,The former Yugoslav Republic of Macedonia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.6,4.5,5.3,6.4,5.4,4.8,6.0,6.0,5.1,5.5,4.8,4.3,3.6,3.9,2.8,3.1,3.0,2.7,2.2,0.9,1.6,1.5,1.5,1.5
+807,The former Yugoslav Republic of Macedonia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",5.6,5.2,6.1,7.5,6.2,5.4,6.8,6.8,5.7,6.2,5.5,4.7,4.0,4.3,3.0,3.4,3.2,3.0,2.4,1.0,1.7,1.6,1.6,1.6
+626,Timor-Leste,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , ,89.0,76.0,70.0,69.0,77.0,84.0,73.0,54.0,49.0,53.0,66.0,87.0
+626,Timor-Leste,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , ,48.0,38.0,32.0,32.0,38.0,44.0,35.0,20.0,17.0,20.0,30.0,48.0
+626,Timor-Leste,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , ,145.0,131.0,125.0,124.0,133.0,140.0,128.0,109.0,102.0,106.0,119.0,141.0
+768,Togo,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.2,7.9,8.6,9.3,10.0,11.0,12.0,13.0,14.0,14.0,14.0,14.0,13.0,13.0,12.0,11.0,11.0,9.8,9.3,9.1,9.4,10.0,11.0,12.0
+768,Togo,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.9,5.2,5.7,6.4,7.0,7.7,8.5,9.1,9.6,9.8,9.9,9.8,9.5,8.9,8.3,7.7,7.2,6.6,6.4,6.3,6.5,6.8,7.1,7.5
+768,Togo,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.9,10.0,11.0,11.0,12.0,13.0,14.0,16.0,17.0,17.0,17.0,17.0,16.0,16.0,15.0,14.0,13.0,13.0,13.0,13.0,13.0,14.0,15.0,16.0
+772,Tokelau,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",3.1,6.8,10.0,1.4,1.1,53.0,0.7,0.5,0.3,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+772,Tokelau,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.7,3.0,6.1,0.3,0.2,37.0,0.1,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+772,Tokelau,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",7.5,12.0,16.0,3.3,2.7,71.0,1.7,1.2,0.7,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+776,Tonga,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.2,5.6,5.1,4.6,4.2,3.9,3.7,3.5,3.5,3.4,3.3,3.2,3.0,3.0,2.9,2.9,2.9,2.8,2.7,2.7,2.6,2.5,2.5,2.4
+776,Tonga,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",3.4,3.2,2.1,1.6,1.8,1.7,1.4,1.4,1.0,1.2,1.1,1.7,0.9,1.3,1.5,1.2,1.2,0.9,1.4,1.6,1.4,1.4,1.4,1.4
+776,Tonga,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.9,8.9,9.6,9.7,7.8,7.0,7.1,6.8,7.7,6.7,6.9,5.1,7.0,5.4,4.8,5.5,5.5,6.1,4.6,4.0,4.2,4.1,3.9,3.7
+780,Trinidad and Tobago,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.6,3.1,1.7,2.0,0.9,2.8,2.8,3.5,3.0,2.2,1.9,1.3,1.9,1.7,1.5,1.4,4.0,1.4,1.9,2.2,2.2,2.2,2.2,2.2
+780,Trinidad and Tobago,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.5,2.9,1.6,2.0,0.9,2.7,2.8,3.4,3.0,2.2,1.9,1.3,1.8,1.7,1.5,1.4,3.6,1.3,1.7,2.0,2.0,1.9,1.9,1.8
+780,Trinidad and Tobago,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",2.7,3.3,1.7,2.1,0.9,2.8,2.9,3.5,3.0,2.2,2.0,1.3,1.9,1.7,1.5,1.4,4.3,1.6,2.1,2.4,2.4,2.5,2.6,2.7
+788,Tunisia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.2,2.3,2.3,2.4,2.5,2.6,2.5,2.5,2.4,2.2,2.1,2.0,2.0,2.0,2.0,2.0,2.1,2.2,2.2,2.3,2.4,2.3,2.3,2.1
+788,Tunisia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.3,1.3,1.2,1.3,1.4,1.4,1.5,1.4,1.4,1.3,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.3,1.4,1.4,1.4,1.3,1.1,0.8
+788,Tunisia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",3.7,3.6,3.4,3.3,3.3,3.4,3.4,3.3,3.4,3.4,3.3,3.1,3.0,2.9,2.9,2.9,2.9,3.1,3.3,3.5,3.6,3.7,3.7,3.8
+792,Turkey,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",6.2,5.4,4.7,4.6,4.9,4.0,3.5,3.2,3.0,2.7,3.2,2.7,2.2,1.8,1.1,1.5,0.9,0.9,1.0,0.8,0.7,0.7,0.5,0.4
+792,Turkey,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.4,1.3,1.3,1.4,1.6,1.5,1.2,1.2,1.2,1.3,1.3,1.2,1.0,0.9,0.5,0.9,0.7,0.7,0.8,0.8,0.7,0.7,0.3,0.2
+792,Turkey,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",14.0,12.0,10.0,9.8,10.0,7.8,7.0,6.1,5.5,4.7,5.8,4.9,4.0,3.1,1.8,2.2,1.2,1.2,1.3,0.9,0.7,0.7,0.8,0.7
+795,Turkmenistan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",15.0,14.0,14.0,18.0,17.0,18.0,24.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+795,Turkmenistan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",12.0,11.0,11.0,15.0,14.0,15.0,21.0,21.0,21.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0,22.0
+795,Turkmenistan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",18.0,16.0,17.0,21.0,20.0,20.0,28.0,29.0,29.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0
+796,Turks and Caicos Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.3,7.1,5.9,6.1,6.1,5.3,4.8,4.5,3.9,3.9,4.3,3.6,3.5,3.5,3.5,3.5,3.5
+796,Turks and Caicos Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,6.4,5.7,5.7,5.4,4.9,4.5,4.2,3.9,3.8,3.8,3.5,3.4,3.4,3.4,3.4,3.4
+796,Turks and Caicos Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,7.9,6.0,6.6,6.8,5.8,5.1,4.7,4.0,4.1,4.7,3.7,3.7,3.7,3.7,3.7,3.7
+798,Tuvalu,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",108.0,100.0,92.0,87.0,83.0,80.0,79.0,79.0,79.0,78.0,76.0,74.0,70.0,65.0,60.0,56.0,53.0,33.0,28.0,34.0,12.0,7.7,36.0,29.0
+798,Tuvalu,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",38.0,24.0,21.0,20.0,28.0,13.0,16.0,20.0,26.0,33.0,28.0,27.0,30.0,9.5,14.0,21.0,24.0,16.0,12.0,16.0,3.2,2.3,18.0,12.0
+798,Tuvalu,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",223.0,243.0,231.0,217.0,177.0,234.0,207.0,188.0,166.0,145.0,152.0,150.0,132.0,190.0,144.0,112.0,95.0,58.0,52.0,59.0,28.0,16.0,63.0,53.0
+800,Uganda,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",87.0,77.0,70.0,65.0,62.0,59.0,57.0,55.0,53.0,51.0,49.0,46.0,43.0,40.0,36.0,34.0,30.0,25.0,22.0,20.0,17.0,15.0,13.0,11.0
+800,Uganda,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",34.0,51.0,48.0,47.0,42.0,30.0,25.0,25.0,27.0,29.0,30.0,28.0,26.0,22.0,19.0,18.0,17.0,14.0,14.0,13.0,11.0,9.5,7.8,5.8
+800,Uganda,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",131.0,109.0,97.0,87.0,81.0,78.0,74.0,71.0,67.0,64.0,61.0,59.0,56.0,52.0,47.0,43.0,39.0,33.0,30.0,28.0,25.0,21.0,19.0,18.0
+804,Ukraine,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",9.6,9.7,11.0,12.0,12.0,15.0,17.0,18.0,17.0,21.0,23.0,24.0,21.0,23.0,24.0,26.0,23.0,23.0,23.0,19.0,17.0,16.0,16.0,14.0
+804,Ukraine,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",9.2,9.2,10.0,11.0,12.0,15.0,17.0,18.0,16.0,20.0,23.0,23.0,21.0,22.0,23.0,26.0,23.0,23.0,23.0,18.0,17.0,15.0,15.0,14.0
+804,Ukraine,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",10.0,10.0,11.0,12.0,12.0,16.0,18.0,18.0,17.0,21.0,24.0,24.0,22.0,23.0,24.0,27.0,24.0,24.0,23.0,19.0,18.0,16.0,16.0,15.0
+810,Union of Soviet Socialist Republics [former],647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+810,Union of Soviet Socialist Republics [former],793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+810,Union of Soviet Socialist Republics [former],794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+784,United Arab Emirates,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.6,1.0,0.6,0.8,0.6,0.5,0.7,0.7,0.7
+784,United Arab Emirates,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.8,0.5,0.6,0.5,0.4,0.5,0.5,0.5
+784,United Arab Emirates,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.7,1.3,0.7,1.0,0.8,0.6,0.9,0.9,0.9
+826,United Kingdom,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.8,0.9,0.8,0.9,0.8,0.9,0.8,0.8,0.8,0.8,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.5,0.5,0.5,0.5
+826,United Kingdom,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.8,0.9,0.8,0.9,0.8,0.9,0.8,0.8,0.8,0.8,0.7,0.7,0.7,0.7,0.7,0.6,0.7,0.6,0.6,0.6,0.5,0.5,0.5,0.5
+826,United Kingdom,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.8,0.9,0.8,0.9,0.9,0.9,0.9,0.8,0.8,0.8,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.5,0.5,0.5,0.5
+834,United Republic of Tanzania,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",46.0,40.0,34.0,29.0,26.0,23.0,21.0,19.0,18.0,18.0,17.0,17.0,16.0,16.0,15.0,15.0,14.0,14.0,13.0,12.0,11.0,11.0,12.0,12.0
+834,United Republic of Tanzania,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",32.0,28.0,25.0,22.0,19.0,17.0,16.0,15.0,14.0,14.0,13.0,12.0,12.0,11.0,11.0,10.0,9.9,9.6,9.0,8.4,8.0,7.5,7.1,7.0
+834,United Republic of Tanzania,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",61.0,52.0,44.0,38.0,34.0,30.0,28.0,27.0,26.0,26.0,25.0,24.0,23.0,22.0,22.0,21.0,21.0,20.0,20.0,18.0,18.0,17.0,16.0,17.0
+840,United States,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",0.7,0.7,0.7,0.6,0.6,0.5,0.5,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+840,United States,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",0.7,0.7,0.7,0.6,0.6,0.5,0.5,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+840,United States,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",0.8,0.7,0.7,0.6,0.6,0.5,0.5,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+850,United States Virgin Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",1.8,1.8,1.8,1.8,1.8,1.8,1.8,0.9,2.8,2.8,2.8,0.9,0.9,1.0,1.0,0.9,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+850,United States Virgin Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.8,1.8,1.8,1.8,1.8,1.8,1.8,0.9,2.8,2.8,2.8,0.9,0.9,0.9,0.9,0.9,0.9,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+850,United States Virgin Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",1.8,1.8,1.8,1.8,1.8,1.8,1.8,0.9,2.8,2.8,2.8,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+858,Uruguay,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",2.7,2.7,2.7,2.6,1.9,2.4,2.3,2.6,2.0,2.1,2.1,2.2,1.6,2.0,2.1,1.7,0.9,1.9,1.2,1.8,1.3,1.3,1.2,1.2
+858,Uruguay,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",2.5,2.5,2.5,2.5,1.9,2.3,2.2,2.5,1.9,2.0,2.0,2.1,1.5,1.9,2.0,1.6,0.9,1.9,1.2,1.7,1.3,1.2,1.2,1.1
+858,Uruguay,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",3.0,2.9,2.8,2.8,2.0,2.4,2.4,2.6,2.1,2.2,2.2,2.3,1.6,2.1,2.2,1.7,1.0,2.0,1.3,1.9,1.4,1.4,1.3,1.2
+860,Uzbekistan,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",8.3,8.6,8.1,9.4,10.0,12.0,13.0,14.0,16.0,16.0,17.0,18.0,18.0,17.0,15.0,14.0,13.0,12.0,11.0,10.0,9.5,8.8,8.2,7.6
+860,Uzbekistan,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",7.2,7.6,7.4,8.5,9.1,10.0,12.0,12.0,13.0,14.0,15.0,15.0,15.0,14.0,12.0,12.0,11.0,10.0,9.5,8.9,8.3,7.7,7.1,6.6
+860,Uzbekistan,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",9.4,9.6,8.8,10.0,12.0,13.0,16.0,17.0,18.0,18.0,20.0,21.0,21.0,20.0,17.0,15.0,14.0,13.0,12.0,12.0,11.0,10.0,9.3,8.7
+548,Vanuatu,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",7.0,43.0,29.0,5.3,16.0,2.7,7.9,27.0,25.0,6.7,17.0,24.0,2.9,5.8,15.0,15.0,14.0,13.0,13.0,12.0,11.0,9.3,7.9,6.3
+548,Vanuatu,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.6,25.0,16.0,1.6,6.6,0.5,2.4,15.0,14.0,1.9,8.2,13.0,0.5,1.8,8.0,8.0,7.7,7.3,6.8,6.1,5.4,4.4,3.4,2.3
+548,Vanuatu,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",18.0,67.0,48.0,11.0,29.0,6.5,17.0,43.0,40.0,15.0,29.0,38.0,8.5,13.0,24.0,24.0,23.0,22.0,21.0,19.0,18.0,16.0,15.0,13.0
+862,Venezuela,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.3,4.3,4.3,3.6,3.8,3.7,3.5,3.4,3.3,3.2,2.7,3.1,2.7,2.9,2.8,2.4,2.3,2.4,2.3,1.9,1.9,1.8,1.7,1.6
+862,Venezuela,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",4.2,4.2,4.1,3.5,3.7,3.6,3.4,3.3,3.2,3.1,2.7,3.0,2.7,2.8,2.7,2.3,2.3,2.4,2.3,1.9,1.9,1.8,1.7,1.6
+862,Venezuela,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",4.4,4.4,4.5,3.8,4.0,3.8,3.6,3.5,3.4,3.3,2.8,3.2,2.8,2.9,2.8,2.4,2.3,2.5,2.3,2.0,1.9,1.8,1.7,1.6
+704,Viet Nam,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",52.0,50.0,48.0,46.0,44.0,42.0,40.0,38.0,37.0,35.0,33.0,32.0,31.0,29.0,28.0,27.0,26.0,25.0,24.0,23.0,22.0,21.0,20.0,19.0
+704,Viet Nam,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",30.0,29.0,29.0,28.0,27.0,26.0,25.0,24.0,23.0,23.0,22.0,21.0,21.0,20.0,19.0,19.0,18.0,17.0,16.0,16.0,15.0,14.0,13.0,13.0
+704,Viet Nam,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",79.0,75.0,71.0,68.0,64.0,61.0,58.0,55.0,52.0,50.0,47.0,45.0,43.0,41.0,39.0,37.0,35.0,33.0,32.0,31.0,29.0,28.0,27.0,26.0
+876,Wallis and Futuna Islands,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",4.7,37.0,2.7,8.5,12.0,1.7,7.2,29.0,6.0,1.5,1.7,1.9,40.0,33.0,12.0,2.3,1.7,1.5,1.3,18.0,3.9,0.6,0.6,2.3
+876,Wallis and Futuna Islands,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",1.0,24.0,0.5,3.8,7.2,0.3,3.6,20.0,2.9,0.3,0.3,0.4,27.0,22.0,7.0,0.7,0.3,0.3,0.3,12.0,2.0,0.1,0.2,1.5
+876,Wallis and Futuna Islands,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",12.0,53.0,6.4,15.0,19.0,4.2,12.0,40.0,10.0,3.7,4.2,4.5,54.0,45.0,19.0,5.0,4.1,3.7,3.2,25.0,6.7,1.5,1.2,3.1
+732,Western Sahara,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+732,Western Sahara,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+732,Western Sahara,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+887,Yemen,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",36.0,33.0,31.0,29.0,27.0,26.0,25.0,23.0,22.0,21.0,21.0,20.0,19.0,18.0,17.0,16.0,14.0,12.0,10.0,8.4,6.9,5.8,4.8,4.1
+887,Yemen,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",22.0,22.0,21.0,19.0,18.0,17.0,17.0,16.0,16.0,15.0,14.0,14.0,13.0,12.0,11.0,10.0,9.2,8.1,6.8,5.7,4.7,3.7,2.7,1.9
+887,Yemen,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",52.0,46.0,40.0,36.0,33.0,32.0,30.0,28.0,28.0,28.0,26.0,25.0,24.0,23.0,21.0,19.0,17.0,15.0,13.0,12.0,10.0,8.5,7.4,6.9
+890,Yugoslavia [former Socialist Federal Republic],647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)", , , , , , , , , , , , , , , , , , , , , , , , 
+890,Yugoslavia [former Socialist Federal Republic],793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+890,Yugoslavia [former Socialist Federal Republic],794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)", , , , , , , , , , , , , , , , , , , , , , , , 
+894,Zambia,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",81.0,73.0,68.0,64.0,60.0,56.0,52.0,48.0,44.0,39.0,35.0,31.0,27.0,25.0,23.0,21.0,20.0,21.0,23.0,24.0,23.0,23.0,25.0,25.0
+894,Zambia,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",59.0,52.0,48.0,44.0,41.0,38.0,35.0,32.0,29.0,26.0,23.0,20.0,18.0,16.0,14.0,13.0,13.0,13.0,15.0,15.0,14.0,15.0,16.0,16.0
+894,Zambia,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",106.0,91.0,83.0,77.0,72.0,69.0,65.0,61.0,55.0,50.0,46.0,41.0,37.0,34.0,32.0,29.0,28.0,28.0,31.0,31.0,30.0,30.0,32.0,33.0
+716,Zimbabwe,647,Y,"Tuberculosis death rate per year per 100,000 population (mid-point)",52.0,44.0,36.0,30.0,26.0,23.0,22.0,22.0,22.0,23.0,24.0,26.0,28.0,31.0,35.0,39.0,41.0,43.0,41.0,39.0,36.0,38.0,41.0,40.0
+716,Zimbabwe,793,N,"Tuberculosis death rate per year per 100,000 population (lower bound)",31.0,28.0,23.0,21.0,18.0,16.0,13.0,12.0,13.0,15.0,16.0,16.0,18.0,21.0,22.0,24.0,26.0,28.0,28.0,27.0,25.0,26.0,27.0,25.0
+716,Zimbabwe,794,N,"Tuberculosis death rate per year per 100,000 population (upper bound)",78.0,60.0,51.0,44.0,34.0,30.0,32.0,32.0,31.0,29.0,29.0,31.0,33.0,37.0,42.0,47.0,49.0,53.0,52.0,52.0,48.0,51.0,55.0,52.0

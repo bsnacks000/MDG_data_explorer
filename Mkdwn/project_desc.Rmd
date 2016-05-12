@@ -9,9 +9,11 @@ output: html_document
 
 In 2000, world leaders in the UN agreed upon a set of seven development goals for humanity in order to undermine poverty, hunger and disease in underdeveloped nations. These goals also included improving social conditions such as equal opportunities for women and better education for children. Targets and indicators for each of the seven goals were selected by statisticians to measure progress toward the broader millenial development goals from 1990 - 2015.  
 
-The Millenial Development Goals Database Explorer is an application designed to explore relationships and spot trends among several distinct MDG indicators from the categories of disease(Tuberculosis rates), air quality (CO2 emmisions/Ozone depleting substances) and poverty(slum population/under-nourishment percentages).  
+The Millenial Development Goals Database Explorer is an application designed to explore relationships and spot trends among several distinct MDG indicators across different target categories of disease(Tuberculosis rates), air quality (CO2 emmisions/Ozone depleting substances) and poverty(slum population/under-nourishment percentages).  
 
-For this project, an emphasis will be placed on exploring trends in tuberculosis rates and amongst a selection of developed and under-developed regions. 
+By making this app I am hoping to quickly gain insight as to which countries and regions suffer from the highest overall tuberculosis rates, lowest air quality, and highest poverty percentages. Do the MDG indicators of these countries and regions show improvement over the course of the study (between 1990 -2013)? Is there an overall reduction of these problems on a world-wide level?
+
+Finally, I want to explore any relationships between the three targets. Is there a correlation between incidence and death rates of tuberculosis and air quality or quality of living?
 
 
 #### **MDG Indicator Information**
@@ -47,26 +49,38 @@ Link to data cleaning script and raw csv folder:
 <github link>
  
 
-### **Application Design**
+#### **Application Design**
 
 The application itself is divided into three sections: GeoChart, Data Explorer, and Correlation Explorer.
 
-- **GeoChart** - an interactive map that is divided up into both world and regional views. The user can chart the progress of each indicator throughout the years spanning the study. 
+- **GeoChart** - an interactive map that is divided up into both world and regional views. The user can chart the progress of each indicator throughout the years spanning the study to get an overall sense of the MDG Indicator measurements for different regions/countries. 
 
-- **Data Explorer** - this offers two distinct views, the first plots sparklines that show the overall trends of the data for each country 
+- **Data Explorer** - this offers two distinct views, a set of sparklines for each MDG Indicator for a particular country and a filter chart that allows comparisons for up to 5 countries for each MDG Indicator. The sparklines view provides an overview for the basic trends for each country, while the filter chart allows a more detailed comparison for multiple countries.
 
-- **Correlation Explorer**
+- **Correlation Explorer** - an interactive scatterplot of avg values across all years for each MDG Indicator. Both the x and y axis are selectable to allow the user to look for correlations between any two MDG Indicators.
+
+The application is designed to be fully scalable with the rest of the MDG dataset. This means that it can be potentially expanded to include more MDG Indicators without having to change any of the underlying server/ui code.
 
 
-### **Analysis**
+### **Insights / Exploratory Analysis**
 
-Exploration of project goals... Using Data Explorer and GeoChart to spot trends among certain countries and regions   
-  
-Correlation explorer... Gaining insight into relationships between disease/ pollution/ poverty targets  
+_Which countries/regions are most affected by tuberculosis, air pollution, and poor living conditions? Do these regions show improvement over the course of the study?_
 
-### **Conclusion**
+The regions most affected by high tuberculosis rates as well as poor living conditions are countries in southern Africa and southeast Asia, particularly in underdeveloped countries. The max TB death rate has been in steady decline worldwide since 1990, while the incidence rate has been increasing steadily. This could be an indication that although medicine has been helping treat TB once diagnosed, measures to prevent the spread of TB have been much less effective.
 
-Results of exploratory analysis... ways to make the app better
+The countries with some of the highest TB rates and poorest living conditions include Nigeria, Somalia, Chad, Cambodia, Myanmar and Gabon. Overall these countries show a reduction in TB rates and slum/under-nourished percentages since 1990.
+
+Several leading industrial nations are responsible for producing the majority of the world's air pollutants. These nations include China, United States, Russia, Japan and India. CO2 emissions have been steadily increasing in both the US and China since 1990. Since 1995 however production of Ozone depleting substances have decreased substantially in these countries. 
+
+
+_Is there any correlation between TB rates and either air quality or poverty conditions?_
+
+Using the average rates amongst nations worldwide for each of the MDG Indicators a strong positive correlation can be shown between TB incidence/death rates and both slum to urban percantages as well as population under-nourished percentage. Countries with higher TB rates tend to on average have populations that suffer from poor living conditions and under-nourishment. 
+
+The data also shows a slightly negative correlation between TB rates and air quality indicators. This is due to the fact that air pollutants are mostly produced by first world regions and nations, which have a higher standard of healthcare regarding TB.
+
+
+
 
 
 

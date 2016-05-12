@@ -33,6 +33,15 @@ shinyServer(function(input, output){
     )
     
     
+    output$yearly_max = renderText(
+        paste("Yearly Max Value: ", max(selected_data_geo()$n))
+    )
+    
+    output$yearly_min = renderText(
+        paste("Yearly Min Value: ", min(selected_data_geo()$n))
+    )
+    
+    
     output$gvis_map_world = renderGvis({
         make_geo_chart(selected_data_geo(), "world")
     })
@@ -155,10 +164,7 @@ shinyServer(function(input, output){
     output$scatter_plot = renderPlotly({
         x_label = as.character(selected_data_corr()$Series.x[1])  
         y_label = as.character(selected_data_corr()$Series.y[1])
-        
-        
-        
-        
+    
         p = ggplot(selected_data_corr(), aes(x,y)) +
             geom_point(aes(colour = Country)) + 
             geom_smooth(method = "lm") + 

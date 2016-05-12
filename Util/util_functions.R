@@ -10,7 +10,7 @@ make_geo_chart = function (dataset, region_code){
             dataset, locationvar="Country", colorvar="n",  
             options= list(
                 region=region_code, resolution="countries",displayMode="auto",
-                height="450px", width="850px", colorAxis="{colors:['#FFFFFF', '#FF0000']}"
+                height="450px", width="850px", colorAxis="{colors:['#99FF99', '#FF0000']}"
             )
         )
     )

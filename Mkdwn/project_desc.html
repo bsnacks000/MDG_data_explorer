@@ -140,15 +140,20 @@ $(document).ready(function () {
 <p>The original master csv was downloaded directly from the UN data mart site: <a href="http://data.un.org/DataMartInfo.aspx#MDG"> http://data.un.org/DataMartInfo.aspx#MDG</a></p>
 <p>My original plan was to upload this very large complete dataset into a MySQL database and from there query and transform the series data before loading the project dataset into R. This however proved to be infeasible due to major descrepencies in the formatting of the csv. Columns were misaligned throughout the dataset and metadata was mixed in with series data. For these reasons I decided that I needed do a preliminary cleaning of the dataset using a spreadsheet editor in order to realign columns and eliminate any extraneous metadata. From the spreadsheet editor I split and exported the data into 7 wide format csv files, one for each series indicator used in the project.</p>
 <p>These csvs were then imported directly into R with the clean_data.R script and transformed using tidyr and dplyr. First, several extra blank columns were dropped from dataframes. Next, I used a function to transform the data from wide to long format and drop some extraenous columns. For tuberculosis data, only the midpoint observations were used, so the high and low observations were dropped from those dataframes. Finally, a union was peformed using rbind() in order to create a single long format clean master csv file that would serve as the backbone of the application.</p>
-<p>On application startup, the clean master csv is loaded and any rows containing missing observations were dropped using complete.cases() in order to improve the efficiency of the googleViz and ggplot libraries. A second dataset of country averages is also created on startup for use with the Correlation Explorer component of the application.</p>
+<p>On application startup, the clean master csv is loaded and any rows containing missing observations were dropped using complete.cases() in order to improve the efficiency of the googleViz and ggplot libraries. A second dataset of country averages for each indicator is also created on startup for use with the Correlation Explorer component of the application.</p>
 <p>Link to data cleaning script and raw csv folder: <github link></p>
 </div>
 <div id="application-design" class="section level3">
 <h3><strong>Application Design</strong></h3>
-<p>discuss app structure content and how/why design was used</p>
+<p>The application itself is divided into three sections: GeoChart, Data Explorer, and Correlation Explorer.</p>
+<ul>
+<li><p><strong>GeoChart</strong> - an interactive map that is divided up into both world and regional views. The user can chart the progress of each indicator throughout the years spanning the study.</p></li>
+<li><p><strong>Data Explorer</strong> - this offers two distinct views, a set of sparklines for each MDG Indicator for a particular country and a filter chart that allows comparisons for up to 5 countries for each MDG Indicator. The sparklines view provides an overview for the basic trends for each country, while the filter chart allows a more detailed comparison for multiple countries.</p></li>
+<li><p><strong>Correlation Explorer</strong> - an interactive scatterplot of avg values across all years for each MDG Indicator. Both the x and y axis are selectable to allow the user to look for correlations between any two MDG Indicators.</p></li>
+</ul>
 </div>
-<div id="analysis" class="section level3">
-<h3><strong>Analysis</strong></h3>
+<div id="exploratory-analysis" class="section level3">
+<h3><strong>Exploratory Analysis</strong></h3>
 <p>Exploration of project goals… Using Data Explorer and GeoChart to spot trends among certain countries and regions</p>
 <p>Correlation explorer… Gaining insight into relationships between disease/ pollution/ poverty targets</p>
 </div>

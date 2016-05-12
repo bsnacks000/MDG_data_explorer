@@ -40,7 +40,7 @@ shinyUI(
                     sliderInput("year_geo", label="Year",value=2000, min=1990, max=2013),
                     HTML("<br><p><strong>NOTE</strong>: Slum population data is only available in select 
                         regions for 1990, 1995, 2000, 2005, 2007, 2009. </p><br><strong>NOTE</strong>: CO2 emissions data is only available up to 2011
-                        worldwide.</p>")
+                        worldwide.</p><br><strong>NOTE</strong>: Population under-nourished data is not available in 1990. </p>")
                     
                 ),
                 
@@ -94,7 +94,9 @@ shinyUI(
                         tabPanel(
                             title = "Oceania",
                             htmlOutput("gvis_map_oceania")
-                        )
+                        ),
+                        tags$h4(textOutput("yearly_max")),
+                        tags$h4(textOutput("yearly_min"))
                     )
                 )
             )
